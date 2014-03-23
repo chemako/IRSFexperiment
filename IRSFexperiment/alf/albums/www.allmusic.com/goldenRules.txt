@@ -1,0 +1,7 @@
+Artist	//*[@class='album-artist']/A/text()
+Title	//*[@class='album-title']/text()
+Rating	//*[@itemprop='rating']/text()
+Release date	//*[@class='release-date']/text()
+Duration	//*[@class='duration']/text()
+Genres	//*[@class='genres']/UL/LI[1]/A/text()
+Styles	//*[@class='styles']/UL/LI[1]/A/text()

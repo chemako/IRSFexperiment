@@ -1,0 +1,114 @@
+//*[contains(text(),"College")]/../../../UL[2]/LI[1]/TEXT()[1]
+109 7114
+//*[contains(text(),"if('undefined'!=typeof ad_kvps&&'undefined'!=typeof ad_u&&'undefined'!=typeof ad_counter&&'undefined'!=typeof ad_ord){if('undefined'==typeof ad_site||'undefined'==typeof ad_zone)var ad_site='espn.us.com.nfl',ad_zone='nflplayerstats';var ad_finalString='http://ad.Doubleclick.net/adj/'+ad_site+'/'+ad_zone+';'+ad_kvps+'pos=InContent;'+ad_u+'dcopt=ist;sz=300x600,300x250,1x1;tile='+ad_counter+';ord='+ad_ord;document.write('<div data-cb-ad-id='InContent' data-cb-dfp-id=''+ad_kvps+'sz=300x600,300x250,1x1'><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};")]/../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+7114 7114
+//*[contains(text(),"Complete Stats »")]/../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+3238 7114
+//*[contains(text(),"1024")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+7113 7114
+//*[contains(text(),"Nov 10, 1972 in Fort Lauderdale, FL")]/../../UL[2]/LI[1]/TEXT()[1]
+7113 7114
+//*[contains(text(),"Players")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"Schedule")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//LI[@class='first']/text()[1]
+109 7114
+//*[contains(text(),"Tickets")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"15,208")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+7113 7114
+//DIV[@class='container']/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()[1]
+929 7114
+//DIV[@class='player-bio']/UL[2]/LI[1]/text()[1]
+109 7114
+//*[contains(text(),"16 years")]/../../UL[2]/LI[1]/TEXT()[1]
+7058 7114
+//*[@id='content-wrapper']/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()
+929 7114
+//UL[@class='general-info']/LI[1]/text()[1]
+109 7114
+//DIV[@class='bg-elements']/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()[1]
+929 7114
+//*[contains(text(),"Photos")]/../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"Born")]/../../../UL[2]/LI[1]/TEXT()[1]
+516 7114
+//*[contains(text(),"Rumors")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"if('undefined'!=typeof ad_kvps&&'undefined'!=typeof ad_u&&'undefined'!=typeof ad_counter&&'undefined'!=typeof ad_ord){if('undefined'==typeof ad_site||'undefined'==typeof ad_zone)var ad_site='espn.us.com.nfl',ad_zone='nflplayerstats';var ad_finalString='http://ad.Doubleclick.net/adj/'+ad_site+'/'+ad_zone+';'+ad_kvps+'pos=Banner;'+ad_u+'sz=728x90,970x66,924x50,1x1;tile='+ad_counter+';ord='+ad_ord;document.write('<div data-cb-ad-id='Banner' data-cb-dfp-id=''+ad_kvps+'sz=728x90,970x66,924x50,1x1'><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};")]/../../../../following-sibling::*[1]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+7114 7114
+//*[contains(text(),"Drafted")]/../../../UL[2]/LI[1]/TEXT()[1]
+5551 7114
+//*[contains(text(),"91")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+7054 7114
+//*[contains(text(),"REC")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+6321 7114
+//*[@id='content']/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()
+929 7114
+//LI[@class='first'][1]/text()[1]
+109 7114
+//BODY[@class='nfl {sportId:28} tier3 player-card']/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()[1]
+929 7114
+//*[contains(text(),"Isaac Bruce Stats")]/../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+7113 7114
+//*[contains(text(),"Isaac Bruce")]/../UL[2]/LI[1]/TEXT()[1]
+7113 7114
+//*[contains(text(),"Videos")]/../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"Scores")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"Draft")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"Standings")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"TD")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+5630 7114
+//*[contains(text(),"Postseason")]/../../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+4927 7114
+//*[contains(text(),"Career")]/../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+3238 7114
+//*[contains(text(),"Odds")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"Injuries")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"Data provided by Elias Sports Bureau")]/../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"NFL Nation")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"1994: 2nd Rnd, 33rd by LOS")]/../../UL[2]/LI[1]/TEXT()[1]
+7113 7114
+//*[contains(text(),"YDS")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+5555 7114
+//*[contains(text(),"Splits")]/../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"MNF")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),".bleft { border-left: 1px solid #AAAAAA !important; }")]/../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+/HTML/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()[1]
+929 7114
+//*[@id='subheader']/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()
+929 7114
+//*[contains(text(),"Experience")]/../../../UL[2]/LI[1]/TEXT()[1]
+1252 7114
+//DIV[@class='mod-content']/DIV[1]/UL[2]/LI[1]/text()[1]
+929 7114
+//*[contains(text(),"Stats")]/../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"Memphis")]/../../UL[2]/LI[1]/TEXT()[1]
+7052 7114
+//*[contains(text(),"Game Log")]/../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"GLOSSARY")]/../../../../../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2626 7114
+//*[contains(text(),"Regular Season |")]/../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+4927 7114
+//*[contains(text(),"Stats")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//*[contains(text(),"NFL Home")]/../../../../../../DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+929 7114
+//DIV[@class='mod-container mod-no-header-footer mod-page-header mod-headshot-65 mod-inactive']/DIV[1]/DIV[1]/UL[2]/LI[1]/text()[1]
+6236 7114
+//*[contains(text(),"Wide Receiver")]/text()
+6232 7114

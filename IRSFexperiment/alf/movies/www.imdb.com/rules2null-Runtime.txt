@@ -1,0 +1,170 @@
+//*[contains(text(),"36")]/../../../DIV[2]/TEXT()[2]
+9903 10000
+//*[contains(text(),"10")]/../../../../../../DIV[2]/TEXT()[2]
+3783 10000
+//*[contains(text(),"0")]/../../../../../../../TR[1]/TD[2]/DIV[2]/TEXT()[2]
+1530 10000
+//*[contains(text(),"/")]/../../../../../DIV[2]/TEXT()[2]
+10000 10000
+//*[contains(text(),"4")]/../../../../../../DIV[2]/TEXT()[2]
+5099 10000
+//*[contains(text(),"-")]/../../../../../DIV[2]/TEXT()[2]
+9914 10000
+//*[contains(text(),"3")]/../../../../../../DIV[2]/TEXT()[2]
+6765 10000
+//*[contains(text(),"+")]/../../../../../../TR[1]/TD[2]/DIV[2]/TEXT()[2]
+1458 10000
+//*[contains(text(),"View rank on IMDbPro")]/../../../../DIV[2]/TEXT()[2]
+2419 10000
+//*[contains(text(),"X")]/../../../../../../DIV[2]/TEXT()[2]
+10000 10000
+//*[contains(text(),"7")]/../../../../../../DIV[2]/TEXT()[2]
+5460 10000
+//*[contains(text()," ")]/../../../../../../TR[1]/TD[2]/DIV[2]/TEXT()[2]
+1458 10000
+//*[contains(text(),"In Time")]/following-sibling::*[1]/TEXT()[2]
+9999 10000
+//*[contains(text(),"(")]/../following-sibling::*[1]/TEXT()[2]
+10000 10000
+//*[contains(text(),"2")]/../../../../../../DIV[2]/TEXT()[2]
+10000 10000
+//TABLE[@border='0']/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()[1]
+3851 10000
+//*[contains(text(),"Amanda Seyfried")]/../../DIV[2]/TEXT()[2]
+9999 10000
+//*[contains(text(),"users")]/../../../DIV[2]/TEXT()[2]
+3668 10000
+//*[contains(text(),"5")]/../../../../../../DIV[2]/TEXT()[2]
+10000 10000
+//TABLE[@cellspacing='0']/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()[1]
+3851 10000
+//*[contains(text(),"Down")]/../../../../DIV[2]/TEXT()[2]
+6268 10000
+//*[@id='pagecontent']/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()
+3859 10000
+//*[contains(text(),"Thriller")]/../TEXT()[2]
+9486 10000
+//*[contains(text(),"user")]/../../../DIV[2]/TEXT()[2]
+3532 10000
+//*[contains(text(),"6.6")]/../../../../DIV[2]/TEXT()[2]
+9775 10000
+//*[contains(text(),"10")]/../../../../DIV[2]/TEXT()[2]
+1262 10000
+//BODY[@class='fixed']/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()[1]
+7997 10000
+//DIV[@itemtype='http://schema.org/Movie']/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()[1]
+5755 10000
+//*[contains(text(),"Loading")]/../../../../../../TR[1]/TD[2]/DIV[2]/TEXT()[2]
+1458 10000
+//*[contains(text(),"Writer:")]/../../DIV[2]/TEXT()[2]
+7091 10000
+//*[@id='content-2-wide']/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()
+3859 10000
+//*[contains(text(),"6")]/../../../../../../DIV[2]/TEXT()[2]
+6466 10000
+//*[contains(text(),"Sci-Fi")]/../TEXT()[2]
+9817 10000
+//*[contains(text(),"/")]/../../../DIV[2]/TEXT()[2]
+10000 10000
+//*[contains(text(),"377")]/../../../../DIV[2]/TEXT()[2]
+9987 10000
+//*[contains(text(),"this week")]/../../../../DIV[2]/TEXT()[2]
+2419 10000
+//*[contains(text(),"324")]/../../../../DIV[2]/TEXT()[2]
+9988 10000
+//*[contains(text(),"1")]/../../../../../../DIV[2]/TEXT()[2]
+9729 10000
+//*[contains(text(),"Director:")]/../../DIV[2]/TEXT()[2]
+2377 10000
+//*[contains(text(),"critic")]/../../../DIV[2]/TEXT()[2]
+6074 10000
+//*[contains(text(),"See full cast and crew")]/../../DIV[2]/TEXT()[2]
+1872 10000
+//*[@id='title-overview-widget-layout']/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()
+3851 10000
+//*[contains(text(),"X")]/../../../../TR[1]/TD[2]/DIV[2]/TEXT()[2]
+1458 10000
+//*[contains(text(),"Top 500")]/../../../../DIV[2]/TEXT()[2]
+9805 10000
+//*[contains(text(),"In a future where people stop aging at 25, but are engineered to live only one more year, having the means to buy your way out of the situation is a shot at immortal youth. Here, Will Salas finds himself accused of murder and on the run with a hostage - a connection that becomes an important part of the way against the system.")]/../DIV[2]/TEXT()[2]
+9999 10000
+//*[contains(text(),"Justin Timberlake")]/../../DIV[2]/TEXT()[2]
+9999 10000
+//*[contains(text(),"Metacritic.com")]/../../../DIV[2]/TEXT()[2]
+9587 10000
+/HTML/BODY[1]/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()[2]
+7779 10000
+//*[@id='wrapper']/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()
+7997 10000
+//*[contains(text(),"|")]/../../DIV[2]/TEXT()[2]
+10000 10000
+//*[contains(text(),"»")]/../../../../DIV[2]/TEXT()[2]
+2437 10000
+//*[contains(text()," ")]/../../../../DIV[2]/TEXT()[2]
+1812 10000
+//DIV[@class='infobar']/text()[1]
+3851 10000
+//*[contains(text(),"|")]/../../../DIV[2]/TEXT()[2]
+7095 10000
+//*[contains(text(),"9")]/../../../../../../DIV[2]/TEXT()[2]
+8310 10000
+//*[contains(text(),"53/100")]/../../../DIV[2]/TEXT()[2]
+9991 10000
+//*[@id='styleguide-v2']/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()
+7997 10000
+//*[contains(text(),"Andrew Niccol")]/../../DIV[2]/TEXT()[2]
+9998 10000
+//*[contains(text(),"|")]/../TEXT()[2]
+10000 10000
+//*[contains(text(),"8")]/../../../../DIV[2]/TEXT()[2]
+6692 10000
+//*[contains(text(),")")]/../following-sibling::*[1]/TEXT()[2]
+10000 10000
+//DIV[@class='article title-overview']/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()[1]
+3852 10000
+//*[@id='maindetails_center_top']/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()
+3859 10000
+//*[@id='root']/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()
+7997 10000
+//DIV[@class='redesign']/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()[1]
+7997 10000
+//*[contains(text(),"2011")]/../../following-sibling::*[1]/TEXT()[2]
+9508 10000
+//DIV[@class='redesign']/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()[1]
+3859 10000
+//*[contains(text(),"10")]/../../../../../DIV[2]/TEXT()[2]
+3807 10000
+//*[contains(text(),"133,763")]/../../../../DIV[2]/TEXT()[2]
+9999 10000
+//DIV[@class='infobar'][1]/text()[1]
+3851 10000
+//*[contains(text(),"Cillian Murphy")]/../../DIV[2]/TEXT()[2]
+9998 10000
+//DIV[@class='maindetails_center']/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()[1]
+3859 10000
+//DIV[@itemscope='']/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()[1]
+3859 10000
+//*[contains(text(),"Share...")]/../../../../../TR[1]/TD[2]/DIV[2]/TEXT()[2]
+1458 10000
+//*[@id='overview-top']/DIV[2]/text()
+3851 10000
+//*[contains(text(),"Stars:")]/../../DIV[2]/TEXT()[2]
+1872 10000
+//*[contains(text(),"Watchlist")]/../../../../../../TR[1]/TD[2]/DIV[2]/TEXT()[2]
+1458 10000
+//*[contains(text(),"17 February 2012 (Italy)")]/../../TEXT()[2]
+9999 10000
+//*[contains(text(),"Watch Trailer")]/../../../../TR[1]/TD[2]/DIV[2]/TEXT()[2]
+9538 10000
+//*[contains(text(),"Action")]/../TEXT()[2]
+9128 10000
+//*[contains(text(),"8")]/../../../../../../DIV[2]/TEXT()[2]
+5236 10000
+//TABLE[@cellpadding='0']/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()[1]
+3851 10000
+//*[@id='title-overview-widget']/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/text()
+3852 10000
+//*[contains(text(),"Share")]/../../../../TR[1]/TD[2]/DIV[2]/TEXT()[2]
+1458 10000
+//*[contains(text(),"Your rating:")]/../../../DIV[2]/TEXT()[2]
+1530 10000

@@ -1,0 +1,58 @@
+//DIV[@class='container']/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()[1]
+7298 10000
+//*[contains(text(),"Birth Place: Scotland")]/../following-sibling::*[1]/DIV[1]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9964 10000
+//DIV[@class='mod-container mod-no-header-footer floatleft mod-info-box mod-affiliations']/DIV[1]/UL[1]/LI[1]/A[1]/text()[1]
+7298 10000
+//*[contains(text(),"Height: 1.73m")]/../following-sibling::*[1]/DIV[1]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9934 10000
+//DIV[@class='bg-elements']/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()[1]
+7298 10000
+//*[@id='subheader']/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()
+7298 10000
+//DIV[@class='bg-opaque']/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()[1]
+7298 10000
+//*[contains(text(),"Wigan Athletic")]/../../LI[1]/A[1]/TEXT()[1]
+9991 10000
+//*[contains(text(),"Position: Midfielder")]/../following-sibling::*[1]/DIV[1]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9031 10000
+//DIV[@class='gradient-bg']/DIV[2]/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()[1]
+7298 10000
+//DIV[@class='span-4 last']/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()[1]
+7298 10000
+//*[contains(text(),"Shaun Maloney")]/../DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//DIV[@class='mod-container mod-no-header-footer mod-no-border mod-profile']/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()[1]
+7298 10000
+/HTML/BODY[1]/DIV[1]/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()[1]
+7298 10000
+//DIV[@class='mod-content']/DIV[1]/DIV[2]/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()[1]
+7298 10000
+//*[contains(text(),"Scotland")]/../../LI[1]/A[1]/TEXT()[1]
+9996 10000
+//DIV[@class='mod-content']/UL[1]/LI[1]/A[1]/text()[1]
+3186 10000
+//DIV[@class='span-4']/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()[1]
+7298 10000
+//*[contains(text(),"Squad No: 10")]/../following-sibling::*[1]/DIV[1]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9936 10000
+//*[contains(text(),"Teams")]/following-sibling::*[1]/LI[1]/A[1]/TEXT()[1]
+7298 10000
+//*[contains(text(),"Birth Date: Jan 24, 1983")]/../following-sibling::*[1]/DIV[1]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//DIV[@class='profile']/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()[1]
+7298 10000
+//*[@id='content-wrapper']/DIV[2]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()
+7298 10000
+//A[@href='http://espnfc.com/team?id=256'][1]/text()[1]
+9982 10000
+//A[@href='http://espnfc.com/team?id=256']/text()[1]
+9982 10000
+//*[contains(text(),"Celtic")]/text()
+9823 10000
+//*[contains(text(),"Age: 31")]/../following-sibling::*[1]/DIV[1]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9915 10000
+//*[contains(text(),"Weight: 69 kg")]/../following-sibling::*[1]/DIV[1]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9956 10000
+//*[@id='content']/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[1]/UL[1]/LI[1]/A[1]/text()
+7298 10000

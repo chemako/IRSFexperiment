@@ -1,0 +1,290 @@
+//*[contains(text(),"1919")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+9958 10000
+//DIV[@itemscope='']/H1[1]/SPAN[1]/text()[1]
+0 10000
+//*[contains(text(),"Supporto")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Scambio")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Francobolli")]/../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Valido fino al:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9498 10000
+//*[contains(text(),"Punteggio:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+2836 10000
+//*[contains(text(),"Filigrana:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9435 10000
+//DIV[@class='mainRow']/DIV[1]/DIV[1]/H1[1]/SPAN[1]/text()[1]
+0 10000
+//*[contains(text(),"Precisione:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+2836 10000
+//*[contains(text(),"Formati")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Si prega di abilitare Javascript per utilizzare Colnect")]/../../following-sibling::*[1]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Cosa c'? di speciale in Colnect??")]/../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Visto il mio profilo")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Bustine di t?")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Valori Facciali")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Molto Basso")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+6868 10000
+//*[contains(text(),"Biglietti di trasporto")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Bustine di Zucchero")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Gettoni")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Video Giochi")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Language ?")]/../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"In linea adesso")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Chi pu? offrirvi questo elemento? Chi vuole questo elemento? Colnect ? unico")]/../../../H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Categorie")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Dentellatura:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+3324 10000
+//*[contains(text(),"Compra adesso:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Gomma:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9782 10000
+//*[contains(text(),"Collezionisti")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Etichette Bevande")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Colnect ti consente di gestire pi? facilmente")]/../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Valute")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"(si,")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9997 10000
+//*[contains(text(),"Figurine")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Entra")]/../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Sottobicchieri Birra")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Serie:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+669 10000
+//*[contains(text(),"Collezionisti di francobolli")]/../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//SPAN[@itemprop='name']/text()[1]
+0 10000
+//*[contains(text(),"Colori:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+5410 10000
+//*[contains(text(),"Carte casin?")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Formato:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+146 10000
+//*[contains(text(),"Lista scambi")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"-10-02")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9974 10000
+//*[contains(text(),"Catalogo delle monete")]/../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Numero Stamp")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+7382 10000
+//*[contains(text(),"nella Collezione")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"75Lithuania groat")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Catalogo videogiochi")]/../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Mancolista")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Schede telefoniche")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Nazione:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Biglietti della Lotteria")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Carta:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9415 10000
+//*[contains(text(),"Avvisi importanti")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Lista dei collezionisti")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Tiratura:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+7190 10000
+//*[contains(text(),"Elenco generale dei collezionisti")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Migliori Accoppiamenti")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"La mia operativita'")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Annate")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Catalogo")]/../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"LT 36")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"-")]/../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Aiuto")]/../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Tematiche:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+5500 10000
+//*[contains(text(),"risponder? a queste domande ed altro ancora.")]/../../../H1[1]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"No. 1 Scales (vertical)")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Dentellature")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Categorie")]/../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Banconote")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Nuovo")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Schede Funzionali")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Medaglie")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Catalogo")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"The second edition of Berlin")]/text()
+9999 10000
+//*[contains(text(),"Collezionisti di Banconote")]/../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"giallo")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+9874 10000
+//*[@id='item_full_top']/DIV[1]/H1[1]/SPAN[1]/text()
+0 10000
+//*[contains(text(),"Colori")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Collezionisti")]/../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Catalogo di francobolli")]/../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Monete")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//DIV[@class='mainContainer']/DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/text()[1]
+0 10000
+//*[contains(text(),"Emesso il:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+51 10000
+//*[contains(text(),"Litografia")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9456 10000
+//*[contains(text(),"Collezionisti di monete")]/../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Francobollo")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+800 10000
+//*[contains(text(),"Calendari Tascabili")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Catalogo Carte da Gioco")]/../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Suggerimenti")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Francobolli")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Catalogo delle Banconote")]/../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Carte da gioco")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"|")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+7218 10000
+//*[contains(text(),"Le mie liste")]/../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),".")]/../../../H1[1]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"collezione personale")]/../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Giochi della LEGO")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"23 x 19 millimetri")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//DIV[@itemtype='http://schema.org/Product']/H1[1]/SPAN[1]/text()[1]
+0 10000
+//*[contains(text(),"Carte bancarie")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"100.000")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9885 10000
+//*[contains(text(),"Emissione:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+2439 10000
+//*[contains(text(),"-03-20")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9968 10000
+//SPAN[@itemprop='name'][1]/text()[1]
+0 10000
+//DIV[@dir='ltr']/DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/text()[1]
+0 10000
+//*[contains(text(),"Collezionisti di Carte da Gioco")]/../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Catalogo di francobolli")]/following-sibling::*[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Collezionisti video giochi")]/../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Collezionisti")]/../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Num. catalogo:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+4 10000
+//*[contains(text(),"Metodi di stampa")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Collezionisti attivi")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Tappi di Bottiglia")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Forum")]/../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Lituania")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+9958 10000
+//*[contains(text(),"Tematiche")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Carte regalo")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Printed in H. .. Herman printing house (Berlino)). Sheet 100 (10x10). Lithography (two plates). Watermarks Semicircle (scales).")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Stemmi araldici")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+9890 10000
+//*[contains(text(),"Cataloghi")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Descrizione:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+7887 10000
+//*[contains(text(),"comb 12 x 11?")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9970 10000
+//*[contains(text(),"Migliora il nostro catalogo")]/../../DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Colnect ti consente di gestire pi? facilmente")]/../../../H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"oatmeal stout paper with wood fibers")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Tipo di stampa:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+4251 10000
+//*[contains(text(),"Etichette bustine di T?")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Cartoline")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Elenco per nazionalit?")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Entra")]/../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Valore facciale:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+133 10000
+//*[contains(text(),"Michel")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+2306 10000
+//*[contains(text(),"Annunci")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"1922")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+9953 10000
+//*[contains(text(),"X")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"rosso carminio")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Ordinari")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+8212 10000
+//*[contains(text(),"Valutazioni negative")]/../../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"·")]/../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Chiavi d'Albergo")]/../../../../../../DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"70,61")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+9995 10000
+/HTML/BODY[1]/DIV[1]/DIV[4]/DIV[1]/DIV[1]/H1[1]/SPAN[1]/text()[1]
+0 10000
+//*[contains(text(),"Dimensioni:")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+6861 10000

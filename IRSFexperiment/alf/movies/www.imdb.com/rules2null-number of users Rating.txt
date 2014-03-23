@@ -1,0 +1,164 @@
+//*[contains(text(),")")]/../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+5565 10000
+/HTML/BODY[1]/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()[1]
+8355 10000
+//*[contains(text(),"10")]/../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//*[contains(text(),"6")]/../../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//*[contains(text(),"View rank on IMDbPro")]/../../../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+4217 10000
+//DIV[@class='star-box giga-star']/DIV[3]/A[1]/SPAN[1]/text()[1]
+2942 10000
+//*[contains(text(),"324")]/../../A[1]/SPAN[1]/TEXT()[1]
+9993 10000
+//DIV[@class='maindetails_center']/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()[1]
+2954 10000
+//*[contains(text(),"Director:")]/../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+3616 10000
+//*[contains(text(),"|")]/../A[1]/SPAN[1]/TEXT()[1]
+5951 10000
+//*[contains(text(),"10")]/../../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//TABLE[@border='0']/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()[1]
+2942 10000
+//*[contains(text(),"user")]/../A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//*[@id='content-2-wide']/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()
+2954 10000
+//DIV[@itemscope='']/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()[1]
+2954 10000
+//*[@id='title-overview-widget-layout']/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()
+2942 10000
+//A[@title='133,763 IMDb users have given an average vote of 6.6/10']/SPAN[1]/text()[1]
+9999 10000
+//*[@id='title-overview-widget']/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()
+2942 10000
+//*[@id='maindetails_center_top']/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()
+2954 10000
+//*[contains(text()," ")]/../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Andrew Niccol")]/../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+9998 10000
+//SPAN[@itemprop='ratingCount'][1]/text()[1]
+2942 10000
+//DIV[@itemtype='http://schema.org/Movie']/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()[1]
+4229 10000
+//*[contains(text(),"2011")]/../../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+9672 10000
+//*[contains(text(),"36")]/../A[1]/SPAN[1]/TEXT()[1]
+9986 10000
+//*[@id='overview-top']/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()
+2942 10000
+//*[contains(text(),"critic")]/../A[1]/SPAN[1]/TEXT()[1]
+5951 10000
+//*[contains(text(),"17 February 2012 (Italy)")]/../../following-sibling::*[1]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"53/100")]/../A[1]/SPAN[1]/TEXT()[1]
+9991 10000
+//*[contains(text(),"See full cast and crew")]/../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+3166 10000
+//DIV[@itemtype='http://schema.org/AggregateRating']/DIV[3]/A[1]/SPAN[1]/text()[1]
+2942 10000
+//*[contains(text(),"377")]/../../A[1]/SPAN[1]/TEXT()[1]
+9996 10000
+//*[contains(text(),"Stars:")]/../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+3166 10000
+//*[contains(text(),"In a future where people stop aging at 25, but are engineered to live only one more year, having the means to buy your way out of the situation is a shot at immortal youth. Here, Will Salas finds himself accused of murder and on the run with a hostage - a connection that becomes an important part of the way against the system.")]/../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"2")]/../../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//*[contains(text(),"-")]/../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//DIV[@class='redesign']/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()[1]
+8355 10000
+//*[contains(text(),"9")]/../../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//DIV[@class='redesign']/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()[1]
+2954 10000
+//*[contains(text(),"»")]/../../../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+4217 10000
+//*[contains(text(),"In Time")]/../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Amanda Seyfried")]/../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//SPAN[@itemprop='ratingCount']/text()[1]
+2942 10000
+//*[contains(text(),"1")]/../../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//*[contains(text(),"10")]/../following-sibling::*[1]/SPAN[1]/TEXT()[1]
+2778 10000
+//*[contains(text(),"8")]/../../../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+6209 10000
+//*[contains(text(),"Sci-Fi")]/../following-sibling::*[1]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+9822 10000
+//*[contains(text(),"133,763")]/text()
+9999 10000
+//*[@id='root']/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()
+8355 10000
+//*[contains(text(),"8")]/../../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//*[contains(text(),"/")]/../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//*[contains(text(),"(")]/../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+2942 10000
+//*[contains(text(),"7")]/../../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//*[contains(text(),"Cillian Murphy")]/../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Writer:")]/../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+7523 10000
+//*[contains(text(),"Thriller")]/../following-sibling::*[1]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+9516 10000
+//*[contains(text(),"Down")]/../../../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+6998 10000
+//*[contains(text(),"4")]/../../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//DIV[@class='article title-overview']/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()[1]
+2942 10000
+//*[contains(text(),"Metacritic.com")]/../A[1]/SPAN[1]/TEXT()[1]
+9585 10000
+//*[@id='wrapper']/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()
+8355 10000
+//*[contains(text(),"this week")]/../../../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+4217 10000
+//*[contains(text(),"3")]/../../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//*[@id='styleguide-v2']/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()
+8355 10000
+//*[contains(text(),"|")]/../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+3046 10000
+//TABLE[@cellspacing='0']/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()[1]
+2942 10000
+//*[contains(text(),"/")]/following-sibling::*[1]/SPAN[1]/TEXT()[1]
+1759 10000
+//A[@href='ratings']/SPAN[1]/text()[1]
+2942 10000
+//DIV[@class='star-box-details']/A[1]/SPAN[1]/text()[1]
+2769 10000
+//*[contains(text(),"Action")]/../following-sibling::*[1]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+9252 10000
+//*[@id='pagecontent']/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()
+2954 10000
+//*[contains(text(),"Top 500")]/../../../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+9823 10000
+//*[contains(text(),"6.6")]/../../A[1]/SPAN[1]/TEXT()[1]
+9752 10000
+//*[contains(text(),"Your rating:")]/../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//*[contains(text(),"5")]/../../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000
+//DIV[@itemprop='aggregateRating']/DIV[3]/A[1]/SPAN[1]/text()[1]
+2942 10000
+//DIV[@itemscope='']/DIV[3]/A[1]/SPAN[1]/text()[1]
+2942 10000
+//TABLE[@cellpadding='0']/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()[1]
+2942 10000
+//*[contains(text(),"|")]/../following-sibling::*[1]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+5910 10000
+//*[contains(text(),"Justin Timberlake")]/../../DIV[3]/DIV[3]/A[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//BODY[@class='fixed']/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[3]/DIV[3]/A[1]/SPAN[1]/text()[1]
+8355 10000
+//*[contains(text(),"X")]/../../../../following-sibling::*[1]/A[1]/SPAN[1]/TEXT()[1]
+2773 10000

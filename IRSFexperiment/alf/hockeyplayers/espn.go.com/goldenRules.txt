@@ -1,0 +1,4 @@
+name	//DIV[@class="mod-content"]//H1/text()
+team	//UL[@class="general-info"]/LI[@class="last"]/A/text()
+born	//UL[@class="player-metadata floatleft"][1]/LI[1]/text()
+status	//*[@id='player-status-main']/DIV/SPAN/text()

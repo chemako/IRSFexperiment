@@ -1,0 +1,3 @@
+name	//*[@id='item_full_top']/DIV/H1/SPAN/text()
+manufacturer	//*[@itemprop='manufacturer']/text()
+score	//*[@href='/it/help/collecting/item_score']/text()

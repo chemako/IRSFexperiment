@@ -1,0 +1,112 @@
+//*[contains(text(),"7")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2013 2299
+//*[contains(text(),"Yonkers, New York, USA")]/../../UL[2]/LI[1]/TEXT()[1]
+2298 2299
+//*[contains(text(),"2013 Stats")]/../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+1849 2299
+//*[contains(text(),"Height")]/../../../UL[2]/LI[1]/TEXT()[1]
+1743 2299
+//LI[@class='first']/text()[1]
+46 2299
+//*[contains(text(),"DOUBLES TITLES")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+1087 2299
+//*[contains(text(),"Go to")]/../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+291 2299
+//*[contains(text(),"SINGLES TITLES")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+1087 2299
+//DIV[@class='container']/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()[1]
+291 2299
+//*[contains(text(),".videoplayer-show{ height: 217px !important; } .mod-inline.video-player.full-box { padding: 1px; }.mod-video-playlist {border-width: 0px; width: 384px; margin: 0 0 10px; 0; float: none; }.mod-video-playlist a, .mod-video-tags a { color: #225DB7; }.mod-inline.video-player.with-playlist #videoInfo { width:384px; }")]/../../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2289 2299
+//*[contains(text(),"Player Profile")]/../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+291 2299
+//DIV[@class='player-bio']/UL[2]/LI[1]/text()[1]
+46 2299
+//*[contains(text(),"December 28, 1979 (Age: 33)")]/../../UL[2]/LI[1]/TEXT()[1]
+2298 2299
+//*[contains(text(),"#100")]/../../UL[2]/LI[1]/TEXT()[1]
+2282 2299
+//*[@id='content-wrapper']/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()
+291 2299
+//*[contains(text(),"ATP Rank")]/../../../UL[2]/LI[1]/TEXT()[1]
+2154 2299
+//UL[@class='general-info']/LI[1]/text()[1]
+46 2299
+//DIV[@class='bg-elements']/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()[1]
+291 2299
+//*[contains(text(),"STATS")]/../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+291 2299
+//*[contains(text(),"Photos")]/../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+291 2299
+//*[contains(text(),"USA")]/text()
+0 2299
+//*[contains(text(),"James Blake")]/../UL[2]/LI[1]/TEXT()[1]
+2298 2299
+//*[contains(text(),"Hometown")]/../../../UL[2]/LI[1]/TEXT()[1]
+890 2299
+//*[@id='content']/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()
+291 2299
+//*[contains(text(),"Birth Date")]/../../../UL[2]/LI[1]/TEXT()[1]
+851 2299
+//LI[@class='first'][1]/text()[1]
+46 2299
+//*[contains(text(),"Weight")]/../../../UL[2]/LI[1]/TEXT()[1]
+1740 2299
+//*[contains(text(),"6-1")]/../../UL[2]/LI[1]/TEXT()[1]
+2215 2299
+//*[contains(text(),"Videos")]/../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+291 2299
+//*[contains(text(),"Turned Pro: 1999")]/../LI[1]/TEXT()[1]
+2265 2299
+//*[contains(text(),"Customize »")]/../../../../../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+291 2299
+//*[contains(text(),"if('undefined'!=typeof ad_kvps&&'undefined'!=typeof ad_u&&'undefined'!=typeof ad_counter&&'undefined'!=typeof ad_ord){if('undefined'==typeof ad_site||'undefined'==typeof ad_zone)var ad_site='espn.us.com.tennis',ad_zone='tennisplayer';var ad_finalString='http://ad.Doubleclick.net/adj/'+ad_site+'/'+ad_zone+';'+ad_kvps+'pos=Banner;'+ad_u+'sz=728x90,970x66,924x50,1x1;tile='+ad_counter+';ord='+ad_ord;document.write('<div data-cb-ad-id='Banner' data-cb-dfp-id=''+ad_kvps+'sz=728x90,970x66,924x50,1x1'><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};")]/../../../../following-sibling::*[1]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2299 2299
+//*[contains(text(),"PREVIOUS TOURNAMENT")]/../../../../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+1556 2299
+//*[contains(text(),"QUICK FACTS")]/../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2121 2299
+//*[contains(text(),"Plays: Right")]/../LI[1]/TEXT()[1]
+991 2299
+//*[contains(text(),"183 lbs.")]/../../UL[2]/LI[1]/TEXT()[1]
+2282 2299
+//*[contains(text(),"Results")]/../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+291 2299
+//*[contains(text(),"SINGLES W-L")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+1087 2299
+//*[contains(text(),"366-256")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2298 2299
+/HTML/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()[1]
+291 2299
+//*[@id='subheader']/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()
+291 2299
+//DIV[@class='mod-content']/DIV[1]/UL[2]/LI[1]/text()[1]
+291 2299
+//*[contains(text(),"if('undefined'!=typeof ad_kvps&&'undefined'!=typeof ad_u&&'undefined'!=typeof ad_counter&&'undefined'!=typeof ad_ord){if('undefined'==typeof ad_site||'undefined'==typeof ad_zone)var ad_site='espn.us.com.tennis',ad_zone='tennisplayer';var ad_finalString='http://ad.Doubleclick.net/adj/'+ad_site+'/'+ad_zone+';'+ad_kvps+'pos=InContent;'+ad_u+'dcopt=ist;sz=300x600,300x250,1x1;tile='+ad_counter+';ord='+ad_ord;document.write('<div data-cb-ad-id='InContent' data-cb-dfp-id=''+ad_kvps+'sz=300x600,300x250,1x1'><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};")]/../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2299 2299
+//*[contains(text(),"MyESPN")]/../../../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+291 2299
+//*[contains(text(),"9-14")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2297 2299
+//*[contains(text(),"#100")]/../../../../../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2284 2299
+//*[contains(text(),"1")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+1545 2299
+//*[contains(text(),"JAMES BLAKE NEWS FEED")]/../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2298 2299
+//BODY[@class='tennis {sportId:850} tier3 player-card usa']/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/text()[1]
+2061 2299
+//*[contains(text(),"James Blake")]/../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2298 2299
+//*[contains(text(),"10")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2209 2299
+//*[contains(text(),"0")]/../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+1114 2299
+//DIV[@class='mod-container mod-no-header-footer mod-page-header mod-headshot-65 mod-inactive']/DIV[1]/DIV[1]/UL[2]/LI[1]/text()[1]
+2118 2299
+//*[contains(text(),"Career")]/../../../../../../DIV[1]/UL[2]/LI[1]/TEXT()[1]
+1737 2299
+//*[contains(text(),".mod-header-no-headshot.mod-page-header ul.player-favorites li { margin: 0 0 0 6px !important; }.mod-header-no-headshot.flag .mod-content .player-bio img { margin-top: 16px; }")]/following-sibling::*[1]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+291 2299
+//*[contains(text(),"ATP World Ranking:")]/../../../../../../../../DIV[3]/DIV[1]/DIV[1]/UL[2]/LI[1]/TEXT()[1]
+2206 2299

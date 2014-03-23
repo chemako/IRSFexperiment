@@ -1,0 +1,104 @@
+//FORM[@action='real-time?symbol=BICK&selected=BICK']/DIV[3]/TABLE[1]/TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/text()[1]
+6460 6461
+//DIV[@class='comm_rating']/DIV[1]/SPAN[1]/text()[1]
+30 6461
+//FORM[@method='post']/DIV[3]/TABLE[1]/TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/text()[1]
+31 6461
+//*[contains(text(),"$ 23.58")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6459 6461
+//FORM[@style='width: 220px; float: left; margin-right: 0px']/DIV[3]/TABLE[1]/TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/text()[1]
+31 6461
+//*[@id='ratingtext']/SPAN[1]/text()
+30 6461
+//*[@id='container']/DIV[5]/DIV[6]/FORM[1]/DIV[3]/TABLE[1]/TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/text()
+31 6461
+//*[contains(text(),"23.5901")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//SPAN[@style='padding-left:0;'][1]/text()[1]
+30 6461
+//DIV[@class='genTable ndls']/TABLE[1]/TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/text()[1]
+31 6461
+//*[contains(text(),"BICK's NASDAQ Last Sale")]/../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//SPAN[@class='comm_bullrating'][1]/text()[1]
+4660 6461
+//*[contains(text(),"Oct 15, 2012")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"Today's Low")]/../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"N/A")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+3719 6461
+//*[contains(text(),"0.1999")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6459 6461
+//*[contains(text(),"10/15/2012 2:43:14 PM")]/../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"Community Rating:")]/following-sibling::*[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"of 1 rating")]/../SPAN[1]/TEXT()[1]
+5422 6461
+//*[contains(text(),"Rate it")]/../DIV[1]/SPAN[1]/TEXT()[1]
+4443 6461
+//*[contains(text(),"Open Price/Date")]/../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+30 6461
+//SPAN[@style='padding-left:0;']/text()[1]
+30 6461
+//*[@id='Form1']/DIV[3]/TABLE[1]/TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/text()
+31 6461
+//*[contains(text(),"NASDAQ Official Price")]/../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"23.81")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6455 6461
+//*[contains(text(),"Today's High")]/../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"6,207")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"100% bullish")]/text()
+4952 6461
+//DIV[@style='padding-bottom: 30px; border-top: 1px solid #2a91d3; width:820px; border-left: 0px; padding-top: 30px; margin-top: 49px; margin-left: 0px; padding-left: 20px; background: url(http://content.nasdaq.com/images/qn_panelright.png) 0px 0px repeat-y; *z-index: -1;']/FORM[1]/DIV[3]/TABLE[1]/TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/text()[1]
+31 6461
+//SPAN[@class='comm_bullrating']/text()[1]
+4660 6461
+//*[contains(text(),"$ ")]/../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+30 6461
+//TD[@colspan='2']/DIV[1]/DIV[1]/SPAN[1]/text()[1]
+30 6461
+//*[contains(text(),"Oct 12, 2012")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//DIV[@class='quotes_content']/FORM[1]/DIV[3]/TABLE[1]/TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/text()[1]
+31 6461
+//*[contains(text(),"0.85%")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6440 6461
+//*[contains(text(),"23.689")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"NLS Volume")]/../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"52 Wk High")]/../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Previous Close")]/../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[@id='OverallStockRating1_lblPercentage']/text()
+30 6461
+//*[contains(text(),"28.30")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6457 6461
+//*[contains(text(),"52 Wk Low")]/../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"1y Target Est")]/../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"23.79")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6451 6461
+//*[contains(text()," ")]/../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+30 6461
+/HTML/BODY[1]/DIV[1]/DIV[5]/DIV[6]/FORM[1]/DIV[3]/TABLE[1]/TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/text()[1]
+31 6461
+//*[contains(text(),"21.123")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[@id='content']/DIV[6]/FORM[1]/DIV[3]/TABLE[1]/TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/text()
+31 6461
+//*[@id='panel_content_ads']/FORM[1]/DIV[3]/TABLE[1]/TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/text()
+31 6461
+//*[contains(text(),"$ 23.70")]/../../../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+6458 6461
+//*[contains(text(),"Close Price/Date")]/../../../TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/TEXT()[1]
+30 6461
+//DIV[@style='width: 220px; margin-bottom:12px;']/TABLE[1]/TR[9]/TD[1]/DIV[1]/DIV[1]/SPAN[1]/text()[1]
+31 6461

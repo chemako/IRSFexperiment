@@ -1,0 +1,11 @@
+Last Sale	//SPAN[@id='_LastSale']/text()
+Volume	//SPAN[@id='_Volume']/text()
+Today Low	//SPAN[@id='_TodaysLow']/text()
+Today Hight	//SPAN[@id='_TodaysHigh']/text()
+52WK low	//SPAN[@id='_52WeekLow']/text()
+52Wk hight	//SPAN[@id='_52WeekHigh']/text()
+Previous Close	//SPAN[@id='_PreviousClose']/text()
+Name	//SPAN[@class='h1_co_name']/text()
+Rating	//SPAN[@id='OverallStockRating1_lblPercentage']/text()
+Open price date	//SPAN[@id='_NOOPAndDate']/text()[1]
+Close price date	//SPAN[@id='_NOCPAndDate']/text()[1]

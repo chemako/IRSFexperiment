@@ -1,0 +1,144 @@
+//*[contains(text(),"Litografia")]/../DD[1]/A[1]/TEXT()[1]
+9456 10000
+//DIV[@dir='ltr']/DIV[4]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[1]/A[1]/text()[1]
+0 10000
+//*[contains(text(),"Tematiche:")]/../DD[1]/A[1]/TEXT()[1]
+5500 10000
+//*[contains(text(),"Colori:")]/../DD[1]/A[1]/TEXT()[1]
+5410 10000
+//*[contains(text(),"Carta:")]/../DD[1]/A[1]/TEXT()[1]
+9415 10000
+//A[@href='/it/stamps/list/country/2659-Lituania']/text()[1]
+9958 10000
+//*[contains(text(),"Lista dei collezionisti")]/../../../DIV[1]/DL[1]/DD[1]/A[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"LT 36")]/../DD[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),": Francobollo ‹")]/../DIV[2]/DIV[1]/DL[1]/DD[1]/A[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Dimensioni:")]/../DD[1]/A[1]/TEXT()[1]
+6861 10000
+//*[contains(text(),"Colnect ti consente di gestire pi? facilmente")]/../../DIV[1]/DL[1]/DD[1]/A[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Si prega di abilitare Javascript per utilizzare Colnect")]/../../following-sibling::*[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[1]/A[1]/TEXT()[1]
+0 10000
+//DIV[@itemscope='']/DIV[2]/DIV[1]/DL[1]/DD[1]/A[1]/text()[1]
+0 10000
+//*[contains(text(),"1922")]/../../DD[1]/A[1]/TEXT()[1]
+9953 10000
+//*[contains(text(),"Michel")]/../../DD[1]/A[1]/TEXT()[1]
+2306 10000
+//*[contains(text(),".")]/../../DIV[1]/DL[1]/DD[1]/A[1]/TEXT()[1]
+10000 10000
+//*[@id='item_full_details']/DIV[1]/DL[1]/DD[1]/A[1]/text()
+0 10000
+//*[contains(text(),"(si,")]/../DD[1]/A[1]/TEXT()[1]
+9997 10000
+//*[contains(text(),"The second edition of Berlin")]/../../DIV[2]/DIV[1]/DL[1]/DD[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"X")]/../../../DIV[1]/DL[1]/DD[1]/A[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Dentellatura:")]/../DD[1]/A[1]/TEXT()[1]
+3324 10000
+//*[contains(text(),"Migliora il nostro catalogo")]/../../DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[1]/A[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Tiratura:")]/../DD[1]/A[1]/TEXT()[1]
+7190 10000
+//*[contains(text(),"oatmeal stout paper with wood fibers")]/../DD[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Stemmi araldici")]/../../DD[1]/A[1]/TEXT()[1]
+9890 10000
+//*[contains(text(),"Lituania")]/text()
+9957 10000
+//A[@itemprop='manufacturer'][1]/text()[1]
+0 10000
+//*[contains(text(),"1919")]/../../DD[1]/A[1]/TEXT()[1]
+9958 10000
+//*[contains(text(),"Numero Stamp")]/../../DD[1]/A[1]/TEXT()[1]
+7382 10000
+//*[contains(text(),"rosso carminio")]/../../DD[1]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Printed in H. .. Herman printing house (Berlino)). Sheet 100 (10x10). Lithography (two plates). Watermarks Semicircle (scales).")]/../DD[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"23 x 19 millimetri")]/../DD[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Molto Basso")]/../../DD[1]/A[1]/TEXT()[1]
+6868 10000
+//*[contains(text(),"Descrizione:")]/../DD[1]/A[1]/TEXT()[1]
+7887 10000
+//*[contains(text(),"Valido fino al:")]/../DD[1]/A[1]/TEXT()[1]
+9498 10000
+//*[contains(text(),"-03-20")]/../DD[1]/A[1]/TEXT()[1]
+9968 10000
+//DIV[@itemtype='http://schema.org/Product']/DIV[2]/DIV[1]/DL[1]/DD[1]/A[1]/text()[1]
+0 10000
+//*[contains(text(),"risponder? a queste domande ed altro ancora.")]/../../DIV[1]/DL[1]/DD[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Compra adesso:")]/../DD[1]/A[1]/TEXT()[1]
+0 10000
+//DIV[@class='i_d']/DL[1]/DD[1]/A[1]/text()[1]
+0 10000
+//*[@id='item_full_top']/DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[1]/A[1]/text()
+0 10000
+//*[contains(text(),"100.000")]/../DD[1]/A[1]/TEXT()[1]
+9885 10000
+//*[contains(text(),"Num. catalogo:")]/../DD[1]/A[1]/TEXT()[1]
+4 10000
+//*[contains(text(),"Catalogo di francobolli")]/../../DIV[2]/DIV[1]/DL[1]/DD[1]/A[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"No. 1 Scales (vertical)")]/../DD[1]/A[1]/TEXT()[1]
+9999 10000
+//DIV[@class='mainRow']/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[1]/A[1]/text()[1]
+0 10000
+//*[contains(text(),"Precisione:")]/../DD[1]/A[1]/TEXT()[1]
+2836 10000
+//*[contains(text(),"75Lithuania groat")]/../DD[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"giallo")]/../../DD[1]/A[1]/TEXT()[1]
+9874 10000
+//*[contains(text(),"Emissione:")]/../DD[1]/A[1]/TEXT()[1]
+2439 10000
+//*[contains(text(),"Tipo di stampa:")]/../DD[1]/A[1]/TEXT()[1]
+4251 10000
+//*[contains(text(),"Francobollo")]/../../DD[1]/A[1]/TEXT()[1]
+800 10000
+//*[contains(text(),"-10-02")]/../DD[1]/A[1]/TEXT()[1]
+9974 10000
+//*[contains(text(),"Filigrana:")]/../DD[1]/A[1]/TEXT()[1]
+9435 10000
+//*[contains(text(),"comb 12 x 11?")]/../DD[1]/A[1]/TEXT()[1]
+9970 10000
+//DIV[@class='mainContainer']/DIV[4]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[1]/A[1]/text()[1]
+0 10000
+//*[contains(text(),"Gomma:")]/../DD[1]/A[1]/TEXT()[1]
+9782 10000
+//*[contains(text(),"Nazione:")]/following-sibling::*[1]/A[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"70,61")]/../../DD[1]/A[1]/TEXT()[1]
+9995 10000
+//*[contains(text(),"|")]/../DD[1]/A[1]/TEXT()[1]
+7218 10000
+//*[contains(text(),"Punteggio:")]/../DD[1]/A[1]/TEXT()[1]
+2836 10000
+/HTML/BODY[1]/DIV[1]/DIV[4]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[1]/A[1]/text()[1]
+0 10000
+//DIV[@itemprop='description']/DL[1]/DD[1]/A[1]/text()[1]
+0 10000
+//*[contains(text(),"Serie:")]/../DD[1]/A[1]/TEXT()[1]
+669 10000
+//A[@href='/it/stamps/list/country/2659-Lituania'][1]/text()[1]
+9958 10000
+//*[contains(text(),"Formato:")]/../DD[1]/A[1]/TEXT()[1]
+146 10000
+//*[contains(text(),"Chi pu? offrirvi questo elemento? Chi vuole questo elemento? Colnect ? unico")]/../../DIV[1]/DL[1]/DD[1]/A[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Ordinari")]/../../DD[1]/A[1]/TEXT()[1]
+8212 10000
+//*[contains(text(),"Valore facciale:")]/../DD[1]/A[1]/TEXT()[1]
+133 10000
+//*[contains(text(),"The second edition of Berlin")]/../../DD[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Emesso il:")]/../DD[1]/A[1]/TEXT()[1]
+51 10000
+//A[@itemprop='manufacturer']/text()[1]
+0 10000

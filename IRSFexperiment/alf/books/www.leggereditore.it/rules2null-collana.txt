@@ -1,0 +1,116 @@
+//*[contains(text(),"Dark Love,")]/../../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1263 1275
+//*[contains(text(),"LEGGI UN ESTRATTO")]/../../../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+895 1275
+//*[contains(text(),"Una lettura carica di fascino.")]/../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1274 1275
+//*[contains(text(),"STAMPA LA SCHEDA")]/../../../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+82 1275
+//*[contains(text(),"Dark Pleasure")]/../../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1263 1275
+//*[contains(text(),"Dark Desire")]/../../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1263 1275
+//*[contains(text(),"PREZZO")]/../../TR[1]/TD[2]/TEXT()[1]
+82 1275
+//*[contains(text(),"Semplicemente irresistibili!")]/../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1274 1275
+//*[contains(text(),"aggiungi al carrello")]/../../../following-sibling::*[1]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+580 1275
+//*[contains(text(),"COLLANA")]/following-sibling::*[1]/TEXT()[1]
+82 1275
+//*[contains(text(),"TRADUTTORE")]/../../TR[1]/TD[2]/TEXT()[1]
+742 1275
+//*[contains(text(),"”")]/../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+619 1275
+//*[contains(text(),"NARRATIVA")]/text()
+1054 1275
+//*[contains(text(),"The Captain of All Pleasures")]/../../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1263 1275
+//*[@id='libro_body']/DIV[2]/TABLE[1]/TR[1]/TD[2]/text()
+82 1275
+//*[contains(text(),"Dark Dream")]/../../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1263 1275
+/HTML/BODY[1]/DIV[1]/DIV[5]/DIV[1]/DIV[1]/DIV[2]/TABLE[1]/TR[1]/TD[2]/text()[1]
+82 1275
+//*[contains(text(),"dello stesso autore")]/../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+305 1275
+//*[contains(text(),"ANNO")]/../../TR[1]/TD[2]/TEXT()[1]
+82 1275
+//*[contains(text(),"Dark Whisper")]/../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1273 1275
+//*[contains(text(),"Le due regine del genere paranormal.")]/../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1274 1275
+//*[contains(text(),"ISBN")]/../../TR[1]/TD[2]/TEXT()[1]
+82 1275
+//*[@id='sx']/DIV[1]/DIV[2]/TABLE[1]/TR[1]/TD[2]/text()
+82 1275
+//*[contains(text(),"Gena Showalter ? un?autrice best seller in tutto il mondo, gi? conosciuta in Italia per il grande successo riscosso in edicola con Harmony. Ha scritto oltre trenta romanzi, tutti ai vertici delle pi? prestigiose classifiche.")]/../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1273 1275
+//*[contains(text(),"2012")]/../../TR[1]/TD[2]/TEXT()[1]
+1099 1275
+//*[@id='scheda']/TABLE[1]/TR[1]/TD[2]/text()
+82 1275
+//*[contains(text(),"GENA  SHOWALTER")]/../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1273 1275
+//*[contains(text(),"KRESLEY COLE")]/../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1263 1275
+//*[contains(text(),"TORNA ALL'ELENCO")]/../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+82 1275
+//*[contains(text(),",")]/../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+941 1275
+//*[contains(text(),"Dark Whisper")]/../../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1263 1275
+//*[contains(text(),"Gli immortali")]/../../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1263 1275
+//*[contains(text(),"9788865081839")]/../../TR[1]/TD[2]/TEXT()[1]
+1274 1275
+//*[contains(text(),"KRESLEY COLE")]/../../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1263 1275
+//*[contains(text(),"I")]/../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+239 1275
+//*[contains(text(),"che hanno riscosso uno strepitoso successo.")]/../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1263 1275
+//*[contains(text(),"titoli. Clicca qui per vedere tutte le opere di")]/../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1275 1275
+//*[@id='libro_scheda']/TR[1]/TD[2]/text()
+82 1275
+//*[contains(text(),"GENA SHOWALTER")]/../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1273 1275
+//*[contains(text(),"KRESLEY COLE")]/../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1263 1275
+//*[contains(text(),"496")]/../../TR[1]/TD[2]/TEXT()[1]
+1269 1275
+//*[contains(text(),"ntoccabile...La vita di Murdoch Wroth, vampiro bello e spregiudicato, ? destinata a cambiare per sempre. Il suo cuore ha ripreso a battere, conquistato dalla bellezza di un?affascinante Valchiria. Ma la loro unione non sar? priva di ostacoli, perch? una terribile maledizione pende sulla donna, e se Wroth osasse anche solo sfiorarla, le infliggerebbe terribili sofferenze.Ad attenderli per? c?? la giusta ricompensa: un?onda di passione travolgente, come il sentimento che li attrae inesorabile. Riusciranno, insieme, a trovare la strada per farsi avvolgere dal bruciante desiderio che arde tra di loro?Per sempre la mia tentazione...L?amore pu? letteralmente trasformare Aleaha Love: basta il contatto con la pelle di un?altra persona perch? lei cambi aspetto e assuma qualsiasi identit?. Durante la sua ultima trasformazione, ha svolto una missione per catturare un gruppo di guerrieri ultraterreni, ma ? stata presa da Breean, un comandante pericoloso e seducente. Per la prima volta, Aleaha vorrebbe solo essere s? stessa... anche se questo significa trasformarsi da cacciatrice a preda.")]/../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1274 1275
+//*[contains(text(),"PAGINE")]/../../TR[1]/TD[2]/TEXT()[1]
+82 1275
+//*[contains(text(),"ReaderToReader")]/../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1274 1275
+//*[contains(text(),"SEGNALA A UN'AMICA")]/../../../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+82 1275
+//*[contains(text(),"RT Book Reviews")]/../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1269 1275
+//*[contains(text(),"Fresh Fiction")]/../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1270 1275
+//*[contains(text(),"€ 12,00")]/../../TR[1]/TD[2]/TEXT()[1]
+1216 1275
+//*[@id='content']/DIV[1]/DIV[1]/DIV[2]/TABLE[1]/TR[1]/TD[2]/text()
+82 1275
+//*[contains(text(),"6")]/../../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+423 1275
+//*[contains(text()," ")]/../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1216 1275
+//TD[@class='libro_scheda_dati'][1]/text()[1]
+82 1275
+//*[contains(text(),"Romantic Times Magazine")]/../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1270 1275
+//TD[@class='libro_scheda_dati']/text()[1]
+82 1275
+//*[contains(text(),"Ginevra Massari")]/../../TR[1]/TD[2]/TEXT()[1]
+1268 1275
+//*[contains(text(),"...e altri")]/../../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+759 1275
+//*[@id='main']/DIV[5]/DIV[1]/DIV[1]/DIV[2]/TABLE[1]/TR[1]/TD[2]/text()
+82 1275
+//*[contains(text(),"Kresley Cole e Gena Showalter uniscono i loro formidabili talenti e danno vitaa una narrazione all?insegna  della magia e della sensualità.")]/../../DIV[2]/TABLE[1]/TR[1]/TD[2]/TEXT()[1]
+1274 1275

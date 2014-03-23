@@ -1,0 +1,90 @@
+//DIV[@class='redesign']/DIV[4]/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()[1]
+825 10000
+//*[contains(text(),",")]/../../DIV[2]/A[1]/TEXT()[1]
+9060 10000
+//*[contains(text(),"Though veteran character actor Arthur O'Connell was born in New York City in 1908, he looked as countrified as apple pie, looking ever more comfy in overalls than he ever did in a suit. He made his stage debut in the mid 1930s and came into contact with Orson Welles' Mercury Theatre. As a result, he earned the bit role of a reporter in the final scenes of Citizen Kane (1941)...")]/../../DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//DIV[@class='infobar']/A[1]/text()[1]
+1328 10000
+//*[@id='root']/DIV[4]/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()
+825 10000
+//DIV[@class='redesign']/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()[1]
+227 10000
+//TABLE[@border='0']/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()[1]
+227 10000
+//*[contains(text(),"May 18")]/../../../DIV[2]/A[1]/TEXT()[1]
+9998 10000
+//*[@id='name-overview-widget-layout']/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()
+227 10000
+//*[@id='maindetails_center_top']/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()
+227 10000
+//*[contains(text(),"Woodland Hills, Los Angeles, California, USA")]/../../DIV[2]/A[1]/TEXT()[1]
+9999 10000
+/HTML/BODY[1]/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()[1]
+825 10000
+//DIV[@class='maindetails_center']/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()[1]
+227 10000
+//*[contains(text(),"1908")]/../../../DIV[2]/A[1]/TEXT()[1]
+9997 10000
+//*[contains(text(),"5,942")]/../../../../DIV[2]/A[1]/TEXT()[1]
+9998 10000
+//A[@href='#Actor'][1]/text()[1]
+7416 10000
+//*[contains(text(),"March 29")]/../../../DIV[2]/A[1]/TEXT()[1]
+9996 10000
+//TABLE[@cellpadding='0']/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()[1]
+227 10000
+//*[contains(text(),"Arthur O'Connell")]/following-sibling::*[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"this week")]/../../../../DIV[2]/A[1]/TEXT()[1]
+1313 10000
+//*[contains(text(),"(1908?1981)")]/../following-sibling::*[1]/A[1]/TEXT()[1]
+9999 10000
+//*[@id='overview-top']/DIV[2]/A[1]/text()
+227 10000
+//*[@id='wrapper']/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()
+825 10000
+//A[@itemprop='jobTitle']/text()[1]
+1328 10000
+//*[contains(text(),"See full bio")]/../../../DIV[2]/A[1]/TEXT()[1]
+9863 10000
+//BODY[@class='fixed']/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()[1]
+825 10000
+//*[contains(text(),"View rank on IMDbPro")]/../../../../DIV[2]/A[1]/TEXT()[1]
+1313 10000
+//*[contains(text(),"»")]/../../../../DIV[2]/A[1]/TEXT()[1]
+1313 10000
+//*[contains(text(),"1981")]/../../../DIV[2]/A[1]/TEXT()[1]
+9989 10000
+//*[contains(text()," »")]/../DIV[2]/A[1]/TEXT()[1]
+10000 10000
+//A[@href='#Actor']/text()[1]
+7416 10000
+//*[@id='content-2-wide']/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()
+227 10000
+//*[@id='pagecontent']/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()
+227 10000
+//A[@itemprop='jobTitle'][1]/text()[1]
+1328 10000
+//*[@id='styleguide-v2']/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()
+825 10000
+//DIV[@itemtype='http://schema.org/Person']/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()[1]
+227 10000
+//DIV[@class='article name-overview']/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()[1]
+227 10000
+//*[contains(text(),"New York City, New York, USA")]/../../DIV[2]/A[1]/TEXT()[1]
+9982 10000
+//TABLE[@cellspacing='0']/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()[1]
+227 10000
+//DIV[@itemscope='']/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/DIV[2]/A[1]/text()[1]
+227 10000
+//*[contains(text(),"Born:")]/../../DIV[2]/A[1]/TEXT()[1]
+9373 10000
+//*[contains(text(),"Died:")]/../../DIV[2]/A[1]/TEXT()[1]
+9863 10000
+//*[contains(text(),"SEE RANK")]/../../../../DIV[2]/A[1]/TEXT()[1]
+1321 10000
+//*[contains(text(),"Actor")]/text()
+7395 10000
+//*[contains(text(),"Up")]/../../../../DIV[2]/A[1]/TEXT()[1]
+6274 10000

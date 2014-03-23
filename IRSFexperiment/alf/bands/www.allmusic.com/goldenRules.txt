@@ -1,0 +1,4 @@
+active	//DD[@class='active'][1]/text()[1]
+name	//DIV[@class='artist-name'][1]/text()[1]
+genres	//DD[@class='genres'][1]/UL[1]/LI[1]/A[1]/text()[1]
+styles	//DD[@class='styles'][1]/UL[1]/LI[1]/A[1]/text()[1]

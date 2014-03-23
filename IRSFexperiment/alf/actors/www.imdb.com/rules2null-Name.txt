@@ -1,0 +1,96 @@
+//*[contains(text(),"1908")]/../../../H1[1]/TEXT()[1]
+9999 10000
+//*[@id='pagecontent']/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+9637 10000
+//*[contains(text(),"Though veteran character actor Arthur O'Connell was born in New York City in 1908, he looked as countrified as apple pie, looking ever more comfy in overalls than he ever did in a suit. He made his stage debut in the mid 1930s and came into contact with Orson Welles' Mercury Theatre. As a result, he earned the bit role of a reporter in the final scenes of Citizen Kane (1941)...")]/../../H1[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"New York City, New York, USA")]/../../H1[1]/TEXT()[1]
+9994 10000
+//DIV[@class='maindetails_center']/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+9637 10000
+//*[contains(text(),"March 29")]/../../../H1[1]/TEXT()[1]
+9997 10000
+//*[contains(text(),"See full bio")]/../../../H1[1]/TEXT()[1]
+9917 10000
+//DIV[@itemtype='http://schema.org/Person']/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+9637 10000
+//H1[@itemprop='name'][1]/text()[1]
+0 10000
+//*[contains(text(),"View rank on IMDbPro")]/../../../following-sibling::*[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"May 18")]/../../../H1[1]/TEXT()[1]
+9999 10000
+//*[@id='overview-top']/H1[1]/text()
+9637 10000
+//DIV[@class='redesign']/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+9637 10000
+//BODY[@class='fixed']/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+9660 10000
+//*[contains(text(),"1 video")]/../../../TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/TEXT()[1]
+9927 10000
+//*[@id='name-overview-widget-layout']/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+9637 10000
+//*[contains(text(),"Up")]/../../../following-sibling::*[1]/TEXT()[1]
+5743 10000
+//*[contains(text(),"this week")]/../../../following-sibling::*[1]/TEXT()[1]
+0 10000
+//DIV[@class='article name-overview']/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+9637 10000
+//*[contains(text(),"5,942")]/../../../following-sibling::*[1]/TEXT()[1]
+9998 10000
+//H1[@class='header'][1]/text()[1]
+0 10000
+//H1[@class='header']/text()[1]
+0 10000
+//*[contains(text(),"Actor")]/../../H1[1]/TEXT()[1]
+7512 10000
+//TABLE[@border='0']/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+9637 10000
+//*[@id='styleguide-v2']/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+9660 10000
+//*[@id='root']/DIV[4]/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+9660 10000
+//*[@id='maindetails_center_top']/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+9637 10000
+//*[contains(text(),"|")]/../../../TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/TEXT()[1]
+9793 10000
+//*[contains(text(),"SEE RANK")]/../../../following-sibling::*[1]/TEXT()[1]
+8 10000
+//*[contains(text(),"Born:")]/../../H1[1]/TEXT()[1]
+9855 10000
+//DIV[@class='redesign']/DIV[4]/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+9660 10000
+//*[contains(text(),"1981")]/../../../H1[1]/TEXT()[1]
+9996 10000
+//*[contains(text(),"7 photos")]/../../../TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/TEXT()[1]
+9976 10000
+//*[contains(text()," »")]/../H1[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Arthur O'Connell")]/text()
+9999 10000
+//*[contains(text(),"(1908?1981)")]/../TEXT()[1]
+9999 10000
+//DIV[@itemscope='']/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+9637 10000
+//H1[@itemprop='name']/text()[1]
+0 10000
+//*[@id='content-2-wide']/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+9637 10000
+//TABLE[@cellspacing='0']/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+9637 10000
+/HTML/BODY[1]/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+9660 10000
+//*[contains(text(),"6 news articles")]/../../../TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/TEXT()[1]
+9995 10000
+//*[contains(text(),"»")]/../../../following-sibling::*[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Woodland Hills, Los Angeles, California, USA")]/../../H1[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Died:")]/../../H1[1]/TEXT()[1]
+9991 10000
+//*[contains(text(),",")]/../../H1[1]/TEXT()[1]
+9852 10000
+//*[@id='wrapper']/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+9660 10000
+//TABLE[@cellpadding='0']/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+9637 10000

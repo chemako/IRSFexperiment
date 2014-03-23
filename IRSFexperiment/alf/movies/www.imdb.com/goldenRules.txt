@@ -1,0 +1,7 @@
+Title	//*[@itemprop='name']/text()
+Rating	//*[@itemprop='ratingValue']/text()
+number of users Rating	//*[@itemprop='ratingCount']/text()
+Country	//*[contains(text(),'Country:')]/../A[1]/text()[1]
+Language	//*[@itemprop='inLanguage'][1]/text()[1]
+Release date	//*[@itemprop='datePublished'][1]/text()[1]
+Runtime	//*[@itemprop='duration'][1]/text()[1]

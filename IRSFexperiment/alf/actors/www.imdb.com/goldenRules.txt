@@ -1,0 +1,5 @@
+Name	//*[@itemprop='name']/text()
+Birth date	//*[@itemprop='birthDate']/A[1]/text()
+Birth date year	//*[@itemprop='birthDate']/A[2]/text()
+Job	//*[@itemprop='jobTitle'][1]/text()
+Prizes	//*[@class='article highlighted']/B/text()

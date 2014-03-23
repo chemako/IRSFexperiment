@@ -1,0 +1,114 @@
+//*[contains(text(),"Privacy Policy")]/../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('Allmovie_ROS_300x250_BTF'); });")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//*[contains(text(),"2.5")]/../following-sibling::*[1]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+8500 10000
+//*[contains(text(),"Watch Trailer")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+8606 10000
+//SPAN[@class='year'][1]/text()[1]
+466 10000
+//*[contains(text(),"Support")]/../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//*[contains(text(),"Terminator Salvation on AllMovie")]/../following-sibling::*[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"produced by")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+5344 10000
+//*[contains(text(),"run time")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+2999 10000
+//*[contains(text(),"USA")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+5141 10000
+//*[contains(text(),"Warner Bros.")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+9973 10000
+//*[contains(text(),"var NREUMQ=NREUMQ||[];NREUMQ.push(['mark','firstbyte',new Date().getTime()]);")]/../following-sibling::*[1]/DIV[3]/DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Submit corrections")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//*[contains(text(),"©2013 AllMovie, a division of All Media Network, LLC | All Rights Reserved")]/../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//*[contains(text(),"editor rating")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+5305 10000
+//DIV[@class='page-heading']/DIV[1]/SPAN[1]/SPAN[1]/text()[1]
+466 10000
+//DIV[@class='page-title']/SPAN[1]/SPAN[1]/text()[1]
+466 10000
+//*[@id='wrapper']/DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/text()
+466 10000
+//*[contains(text(),"(2009)")]/text()
+9649 10000
+//*[contains(text(),"if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(['load',new Date().getTime()]);var e=document.createElement('script');e.type='text/javascript';e.src=(('http:'===document.location.protocol)?'http:':'https:')+'//'+'js-agent.newrelic.com/nr-100.js';document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(['nrfj','beacon-2.newrelic.com','37e6a77380','2200715','NlMEYhZXW0oEWkQNVg8ZJ1UQX1pXSnRfElAEGQ9YAFNN',0,2471,new Date().getTime(),'','','','','']);")]/../DIV[3]/DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Feature")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+2462 10000
+//*[contains(text(),"allmovie")]/../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//*[contains(text(),"Terms of Service")]/../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//SPAN[@class='year']/text()[1]
+466 10000
+//*[contains(text(),"!window.jQuery && document.write(unescape('%3Cscript src='/js/jquery/jquery-1.6.3.min.js'%3E%3C/script%3E'))")]/../DIV[3]/DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Jason Buchanan")]/../following-sibling::*[1]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+9958 10000
+//*[contains(text(),"!window.jQuery.ui && document.write(unescape('%3Cscript src='/js/jquery/jquery-ui-1.8.16.min.js'%3E%3C/script%3E'))")]/../DIV[3]/DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"overview")]/../../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+2887 10000
+//*[contains(text(),"Terminator Salvation (2009) - Trailers, Reviews, Synopsis, Showtimes and Cast - AllMovie")]/../following-sibling::*[1]/DIV[3]/DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Halcyon Co., Moritz Borman, Wonderland Sound and Vision")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"allmusic")]/../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//*[contains(text(),"sidereel")]/../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//*[contains(text(),"mpaa rating")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+8516 10000
+//*[contains(text(),"directed by")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+1836 10000
+//*[contains(text(),"celebified")]/../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//*[contains(text(),"release date")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+9115 10000
+//*[contains(text(),"countries")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+2212 10000
+//BODY[@class='movie ']/DIV[3]/DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/text()[1]
+466 10000
+/HTML/BODY[1]/DIV[3]/DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/text()[1]
+466 10000
+//*[contains(text(),"category")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+492 10000
+//*[contains(text(),"Advertise")]/../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//*[contains(text(),"review")]/../../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+8940 10000
+//*[contains(text(),"genres")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+2652 10000
+//*[contains(text(),"releases")]/../../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+6054 10000
+//*[contains(text(),"flags")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+6355 10000
+//*[contains(text(),"allgame")]/../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//SPAN[@itemprop='name']/SPAN[1]/text()[1]
+466 10000
+//*[contains(text(),"released by")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+7812 10000
+//*[contains(text(),"_qoptions={qacct:'p-cbO7evNACrYx2'};")]/../DIV[3]/DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"cast & crew")]/../../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+1167 10000
+//*[contains(text(),"All Movie")]/../../../../../../DIV[3]/DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//*[contains(text(),"sub-genres")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+5305 10000
+//*[contains(text(),"Copyright Policy")]/../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+466 10000
+//*[contains(text(),"user rating")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+484 10000
+//*[contains(text(),"/")]/../../../../../DIV[3]/DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"alternate title")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+8865 10000
+//*[contains(text(),"114 min.")]/../../../../../DIV[2]/DIV[1]/SPAN[1]/SPAN[1]/TEXT()[1]
+9968 10000

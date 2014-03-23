@@ -1,0 +1,368 @@
+//*[contains(text(),"plot summary")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8040 10000
+//*[@id='root']/DIV[4]/DIV[3]/DIV[5]/DIV[5]/DIV[2]/A[1]/text()
+9608 10000
+//*[contains(text(),"Goofs")]/../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9371 10000
+//*[contains(text(),"Taglines:")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+7539 10000
+//*[contains(text(),"Edit")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+363 10000
+//DIV[@class='maindetails_center']/DIV[5]/DIV[2]/A[1]/text()[1]
+6919 10000
+//DIV[@class='txt-block']/A[1]/text()[1]
+11 10000
+//*[contains(text(),"See more")]/../../DIV[2]/A[1]/TEXT()[1]
+6483 10000
+//*[contains(text(),"Soundtracks")]/../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8735 10000
+//A[@href='/country/us']/text()[1]
+3902 10000
+//*[@id='wrapper']/DIV[1]/DIV[4]/DIV[3]/DIV[5]/DIV[5]/DIV[2]/A[1]/text()
+9608 10000
+//*[contains(text(),"Surfridge, Los Angeles, California, USA")]/../../DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Rated PG-13 for violence, some sexualty and partial nudity, and strong language")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"trivia")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8564 10000
+//*[contains(text(),"metacritic reviews")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9765 10000
+//*[contains(text(),"Budget:")]/../../DIV[2]/A[1]/TEXT()[1]
+8829 10000
+//*[contains(text(),"Technical Specs")]/../DIV[2]/A[1]/TEXT()[1]
+3716 10000
+//*[contains(text(),"Create a list")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7331 10000
+//*[contains(text(),"full technical specs")]/../DIV[2]/A[1]/TEXT()[1]
+3716 10000
+//*[contains(text(),"photo gallery")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8222 10000
+//*[contains(text(),"(2011)")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9995 10000
+//*[contains(text(),"Color:")]/../../DIV[2]/A[1]/TEXT()[1]
+3756 10000
+//*[contains(text(),"Plot Synopsis")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9412 10000
+//*[contains(text(),"Quick Links:")]/../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6919 10000
+//*[contains(text(),"ad_utils.render_ad_fast('top_rhs'); ad_utils.fallback.start_kill_timer('top_rhs');")]/../../DIV[5]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6919 10000
+//*[contains(text(),"box office/business")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8545 10000
+//*[contains(text(),"12 December 2012 10:53 AM, PST")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"soundtracks")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8735 10000
+//*[contains(text(),"?")]/../../../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7274 10000
+//*[contains(text(),"Plot Keywords:")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+3347 10000
+/HTML/BODY[1]/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[5]/DIV[5]/DIV[2]/A[1]/text()[1]
+9608 10000
+//*[contains(text(),"user reviews")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7345 10000
+//*[contains(text(),"  ")]/../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Quotes")]/../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8930 10000
+//*[@id='pagecontent']/DIV[3]/DIV[5]/DIV[5]/DIV[2]/A[1]/text()
+6919 10000
+//*[contains(text(),"Storyline")]/../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+743 10000
+//*[contains(text(),"Regency Enterprises")]/../../DIV[2]/A[1]/TEXT()[1]
+9997 10000
+//*[contains(text()," »")]/../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8467 10000
+//DIV[@class='redesign']/DIV[5]/DIV[5]/DIV[2]/A[1]/text()[1]
+6919 10000
+//*[contains(text(),"literature")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8982 10000
+//*[contains(text(),"ad_utils.inject_ad.register('injected_billboard');")]/../DIV[3]/DIV[5]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9615 10000
+//*[contains(text(),"Related Lists")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7331 10000
+//*[contains(text(),"Welcome to a world where time has become the ultimate currency. You stop aging at 25, but there's a catch: you're genetically-engineered to live only one more year, unless you can buy your way out of it. The rich 'earn' decades at a time (remaining at age 25), becoming essentially immortal, while the rest beg, borrow or steal enough hours to make it through the day. When a man from the wrong side of the tracks is falsely accused of murder, he is forced to go on the run with a beautiful hostage. Living minute to minute, the duo's love becomes a powerful tool in their war against the system.")]/../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+10000 10000
+//A[@href='/country/us'][1]/text()[1]
+3902 10000
+//*[contains(text(),"19 December 2012 10:34 PM, PST")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Videos")]/../../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9723 10000
+//*[contains(text(),"See more")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+6133 10000
+//*[contains(text(),"Details")]/../DIV[2]/A[1]/TEXT()[1]
+743 10000
+//*[contains(text(),"See more")]/../../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+7530 10000
+//*[contains(text(),"goofs")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9365 10000
+//*[contains(text(),"awards")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8467 10000
+//*[contains(text(),"View content advisory")]/../../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9208 10000
+//*[contains(text(),"All in here...")]/../../../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Title:")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7112 10000
+//*[contains(text(),"Obsessed with Film")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9964 10000
+//*[contains(text(),"Want to share IMDb's rating on your own site? Use the HTML below.")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7112 10000
+//*[contains(text(),"Country:")]/following-sibling::*[1]/TEXT()[1]
+491 10000
+//*[contains(text(),"Color")]/../../DIV[2]/A[1]/TEXT()[1]
+3741 10000
+//*[contains(text(),"Dolby")]/../../DIV[2]/A[1]/TEXT()[1]
+8944 10000
+//*[contains(text(),"See all 1541 related articles")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"See more")]/../../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6916 10000
+//*[contains(text(),"SoundOnSight")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9955 10000
+//*[contains(text(),"trailers and videos")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8951 10000
+//*[contains(text(),"Take The Quiz!")]/../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6919 10000
+//*[contains(text(),"parents guide")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9579 10000
+//*[contains(text(),"Did You Know?")]/../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7534 10000
+//*[contains(text(),"Motion Picture Rating (")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9260 10000
+//*[contains(text(),"miscellaneous")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7957 10000
+//*[contains(text(),"Datasat")]/../../DIV[2]/A[1]/TEXT()[1]
+9988 10000
+//*[contains(text(),"Time")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9968 10000
+//*[contains(text(),"Beyond Hollywood")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9986 10000
+//*[@id='maindetails_center_bottom']/DIV[5]/DIV[2]/A[1]/text()
+6919 10000
+//*[contains(text(),"Share this Rating")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7112 10000
+//*[contains(text(),"synopsis")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9736 10000
+//*[contains(text(),"mhar_ced")]/../../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9995 10000
+//*[contains(text(),"connections")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8167 10000
+//*[contains(text(),"See more")]/../../../DIV[2]/A[1]/TEXT()[1]
+885 10000
+//*[@id='content-2-wide']/DIV[5]/DIV[5]/DIV[2]/A[1]/text()
+6919 10000
+//*[contains(text(),"company credits")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6974 10000
+//*[contains(text(),"Dolby Digital")]/../../DIV[2]/A[1]/TEXT()[1]
+9287 10000
+//*[contains(text(),"Full cast and crew")]/../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6921 10000
+//*[contains(text(),"filming locations")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8187 10000
+//*[contains(text(),"Edit")]/../../DIV[2]/A[1]/TEXT()[1]
+336 10000
+//*[contains(text(),"Related News")]/../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8704 10000
+//*[contains(text(),"posters")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9020 10000
+//*[contains(text(),"Connections")]/../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8167 10000
+//*[contains(text(),"'Conan: The 24th Annual NERF Product Expo (#2.53)'")]/../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Twentieth Century Fox")]/../../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"taglines")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8875 10000
+//*[contains(text(),"Photos")]/../../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9515 10000
+//*[contains(text(),"- - - - - - - - - - - - - - - - - - - - -")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6919 10000
+//*[contains(text(),"faq")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9674 10000
+//*[contains(text(),"Cast overview, first billed only:")]/../../../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8717 10000
+//*[contains(text(),"14 videos")]/../../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9994 10000
+//*[contains(text(),"Against The System")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"full cast and crew")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6942 10000
+//*[contains(text(),"IMDbPro")]/../../DIV[2]/A[1]/TEXT()[1]
+630 10000
+//*[contains(text(),"Video: Doritos Mariachi Band Perform East 17?s Stay Another Day")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"hoda-sa121")]/../../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Cast")]/../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6921 10000
+//*[contains(text(),"official sites")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9390 10000
+//*[contains(text(),"Show HTML")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7112 10000
+//BODY[@class='fixed']/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[5]/DIV[5]/DIV[2]/A[1]/text()[1]
+9608 10000
+//*[contains(text(),"dimkovachev")]/../../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9982 10000
+//*[contains(text(),"'In Time'")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Filming Locations:")]/../../DIV[2]/A[1]/TEXT()[1]
+5774 10000
+//*[contains(text(),"Edit")]/../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6919 10000
+//*[contains(text(),"k-gjorgjiev")]/../../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9971 10000
+//*[contains(text(),"photographs")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9224 10000
+//*[contains(text(),"Official Facebook")]/../following-sibling::*[1]/A[1]/TEXT()[1]
+9841 10000
+//*[contains(text(),"Ghetto")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"See more awards")]/../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8467 10000
+//*[contains(text(),"Trivia")]/../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8570 10000
+//*[contains(text(),"See all related lists")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9823 10000
+//*[contains(text(),"ad_utils.render_ad_fast('btf_rhs2'); ad_utils.fallback.start_kill_timer('btf_rhs2');")]/../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6919 10000
+//*[contains(text(),"40 photos")]/../../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9996 10000
+//*[contains(text(),"Parents Guide:")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+743 10000
+//*[contains(text(),"USA")]/text()
+3472 10000
+//*[contains(text(),"Will Salas")]/../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"See all certifications")]/../../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9260 10000
+//*[contains(text(),"Gross:")]/../../DIV[2]/A[1]/TEXT()[1]
+9109 10000
+//*[contains(text(),"video clips")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9365 10000
+//*[contains(text(),"Release Date:")]/../../DIV[2]/A[1]/TEXT()[1]
+1163 10000
+//*[contains(text(),"New Regency Pictures")]/../../DIV[2]/A[1]/TEXT()[1]
+9996 10000
+//*[contains(text(),"Genres:")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+1153 10000
+//*[contains(text(),"Create »")]/../../../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7274 10000
+//*[contains(text(),"Official Sites:")]/../following-sibling::*[1]/A[1]/TEXT()[1]
+8433 10000
+//*[contains(text(),"Test your knowledge of")]/../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6919 10000
+//*[contains(text(),"1000 Movies you must see")]/../../../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9985 10000
+//*[contains(text(),"...")]/../../../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6957 10000
+//*[contains(text(),"Company Credits")]/../DIV[2]/A[1]/TEXT()[1]
+743 10000
+//*[contains(text(),"Opening Weekend:")]/../../DIV[2]/A[1]/TEXT()[1]
+9429 10000
+//*[contains(text()," »")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+8508 10000
+//*[contains(text(),"message board")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8830 10000
+//*[contains(text(),"On The Run")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9989 10000
+//*[contains(text(),"newsdesk")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8703 10000
+//*[contains(text(),"1541 news articles")]/../../../../DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"ad feedback")]/../../../DIV[5]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6919 10000
+//*[contains(text(),"In Time")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Strike Entertainment")]/../../DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"company contact information")]/../../DIV[2]/A[1]/TEXT()[1]
+732 10000
+//*[contains(text(),"quotes")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8921 10000
+//*[contains(text(),"Sound Mix:")]/../../DIV[2]/A[1]/TEXT()[1]
+4559 10000
+//DIV[@itemscope='']/DIV[5]/DIV[5]/DIV[2]/A[1]/text()[1]
+6919 10000
+//DIV[@itemtype='http://schema.org/Movie']/DIV[5]/DIV[5]/DIV[2]/A[1]/text()[1]
+7534 10000
+//*[contains(text(),"overview")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6919 10000
+//*[contains(text(),"109 min")]/../../DIV[2]/A[1]/TEXT()[1]
+9965 10000
+//*[contains(text(),"Plot Summary")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+5689 10000
+//*[contains(text(),"7 December 2012 2:15 AM, PST")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Handful of New Images for Andrew Niccol?s The Host")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"release dates")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6942 10000
+//*[contains(text(),")")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+7625 10000
+//*[contains(text(),"Written by ")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+5689 10000
+//*[contains(text(),"Action")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9142 10000
+//*[contains(text(),"MPAA")]/../../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9260 10000
+//*[contains(text(),"Production Co:")]/../../DIV[2]/A[1]/TEXT()[1]
+1978 10000
+//*[@id='styleguide-v2']/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[5]/DIV[5]/DIV[2]/A[1]/text()
+9608 10000
+//*[contains(text(),"technical specs")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7511 10000
+//*[contains(text(),"Murder")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9636 10000
+//*[contains(text(),"Runtime:")]/../../DIV[2]/A[1]/TEXT()[1]
+4469 10000
+//*[contains(text(),"Also Known As:")]/../../DIV[2]/A[1]/TEXT()[1]
+5462 10000
+//*[contains(text(),"JeremyLin171")]/../../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9996 10000
+//*[contains(text(),"recommendations")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7310 10000
+//*[contains(text(),"View more styles")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7112 10000
+//*[contains(text(),"plot keywords")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7253 10000
+//DIV[@class='article']/DIV[2]/A[1]/text()[1]
+338 10000
+//*[contains(text(),"Watched Movies")]/../../../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9967 10000
+//*[contains(text(),"Connect with IMDb")]/../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6919 10000
+//*[contains(text(),"COMSCORE.beacon({c1:2,c2:'6034961',c3:'',c4:'http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1637688%2F',c5:'',c6:'',c15:''});")]/../DIV[5]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Box Office")]/../DIV[2]/A[1]/TEXT()[1]
+8293 10000
+//*[contains(text(),"Language:")]/../../DIV[2]/A[1]/TEXT()[1]
+1157 10000
+//*[contains(text(),"Sci-Fi")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9728 10000
+//DIV[@class='redesign']/DIV[4]/DIV[3]/DIV[5]/DIV[5]/DIV[2]/A[1]/text()[1]
+9608 10000
+//*[contains(text(),"See more")]/../../following-sibling::*[1]/A[1]/TEXT()[1]
+1076 10000
+//*[contains(text(),"Thriller")]/../../following-sibling::*[1]/DIV[2]/A[1]/TEXT()[1]
+9305 10000
+//*[contains(text(),"17 February 2012")]/../../DIV[2]/A[1]/TEXT()[1]
+9993 10000
+//*[contains(text(),"external reviews")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+8008 10000
+//*[contains(text(),".")]/../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+6919 10000
+//*[contains(text(),"Seven Anti-007 Movies You Haven?t Seen")]/../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"English")]/../../DIV[2]/A[1]/TEXT()[1]
+3052 10000
+//*[contains(text(),"BEST MOVIES")]/../../../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9964 10000
+//*[contains(text(),"user ratings")]/../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+7112 10000
+//*[contains(text(),"Aspect Ratio:")]/../../DIV[2]/A[1]/TEXT()[1]
+4791 10000
+//*[contains(text(),"480 Sexy Pictures of Beautiful Mainstream Actresses")]/../../../../../../following-sibling::*[1]/DIV[5]/DIV[2]/A[1]/TEXT()[1]
+9998 10000

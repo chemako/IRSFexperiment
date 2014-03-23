@@ -1,0 +1,358 @@
+//*[contains(text(),"Conversation �")]/../../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//*[contains(text(),"13:58")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5070 5072
+//*[contains(text(),"Last 5 Games")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4822 5072
+//*[contains(text(),"17.0")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[@id='player-status-main']/DIV[1]/SPAN[1]/text()
+4740 5072
+//*[contains(text(),"Your sports as they happen.")]/../../../../../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"GP")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4756 5072
+//*[contains(text(),"--")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4796 5072
+//*[contains(text(),"15.0")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5067 5072
+//*[contains(text(),"TOI/G")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//*[contains(text(),"In Losses")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4965 5072
+//*[contains(text(),"4")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4782 5072
+//*[contains(text(),"11:21")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5069 5072
+//*[contains(text(),"Thu 10/17")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4924 5072
+//*[contains(text(),"7")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4801 5072
+//DIV[@class='container']/DIV[6]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()[1]
+4740 5072
+//*[contains(text(),"VIDEO")]/../../../../../../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"11")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5014 5072
+//*[contains(text(),"0.0")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4992 5072
+//*[contains(text(),"108")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5064 5072
+//*[contains(text(),"22:42")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"45")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4955 5072
+//*[contains(text(),"%")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//*[contains(text(),"AUDIO")]/../../../../../../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"A")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//DIV[@class='player-status null']/SPAN[1]/text()[1]
+4637 5072
+//*[contains(text(),"8:28")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5070 5072
+//*[contains(text(),"82")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4917 5072
+//*[contains(text(),"15")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4832 5072
+//*[contains(text(),"Complete Game Log �")]/../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4743 5072
+//*[contains(text(),"STATUS")]/following-sibling::*[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"SHG")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4796 5072
+//*[contains(text(),"+/-")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4796 5072
+//*[contains(text(),"PPA")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4796 5072
+//UL[@class='content-full']/LI[1]/DIV[1]/SPAN[1]/text()[1]
+4740 5072
+//*[contains(text(),"1")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4757 5072
+//*[contains(text(),"3")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4770 5072
+//*[contains(text(),"9:44")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5069 5072
+//*[contains(text(),"1")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4964 5072
+//*[contains(text(),"GWG")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4796 5072
+//*[contains(text(),"75")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5015 5072
+//*[contains(text(),"350")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5068 5072
+//*[contains(text(),"Stats")]/../../../following-sibling::*[1]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"Sat 10/26")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4904 5072
+//*[contains(text(),"72")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5010 5072
+//*[contains(text(),"2013-14 Regular Season")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4756 5072
+//*[contains(text(),"3")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//*[contains(text(),"26:40")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"20:24")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5068 5072
+//*[contains(text(),"22:41")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"6")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4795 5072
+//*[contains(text(),"ALL")]/../../../../../../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"Projected")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4756 5072
+//*[contains(text(),"4.8")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5070 5072
+//*[contains(text(),"A")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4756 5072
+//*[contains(text(),"PIM")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4810 5072
+//*[contains(text(),"16")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5018 5072
+//*[contains(text(),"7:00 PM ET")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5072 5072
+//*[contains(text(),"PTS")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4979 5072
+//*[contains(text(),"47")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4979 5072
+//*[contains(text(),"Away")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5004 5072
+//*[contains(text(),"G")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4756 5072
+//*[contains(text(),"8")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4968 5072
+//DIV[@class='mod-container mod-no-header-footer mod-no-border mod-player-profile']/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()[1]
+4740 5072
+//*[contains(text(),"{'playerId':711,'percentChange':0,'averageDraftPosition':1.9,'percentOwned':100,'playerRaterSEASON':14.9,'playerRater7DAY':3.9,'mostRecentNews':{'news':'Crosby saw his eight-game point streak end Monday, thanks to a stellar performance in goal by Colorado's Jean-Sebastian Giguere.','spin':'Crosby registered a season-high seven shots, had five more attempts blocked and missed the net once. Thanks to seven power-play opportunities, Crosby skated nearly 27 minutes. Unfortunately for Crosby and the rest of the Pens, Giguere was simply unbeatable Monday night.','date':'Mon Oct 21'},'fullName':'Sidney Crosby','seasonOutlook':{'outlook':'Can we blame Crosby for suffering yet another injury-shortened campaign last season? It's difficult to say he is brittle when it's an errant puck that slammed into his face. Then again, it has been four seasons since Crosby graced us with a full campaign. It did appear as though he was back to full speed from his head-injury woes last season, but there is always a lingering risk of re-injury with such ailments. We do know that Crosby will put up drool-worry fantasy stats when he is on the ice, to the extent that we would suggest using the second-overall pick to acquire him. His ability to completely dominate the game stuffs almost all the relevant fantasy categories you are looking for. If Crosby can play all 82 games, he will be in contention for the Art Ross Trophy, but we suspect he will miss a game here or there due to his all-out style of play.','seasonId':2014,'date':'Mon Sep 23'},'playerRater30DAY':14.9,'playerRater15DAY':10.9,'positionRank':1}")]/../../../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5072 5072
+//*[contains(text(),"60")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4989 5072
+//*[contains(text(),"G")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//*[contains(text(),"423")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"7")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4970 5072
+//*[contains(text(),"190")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5066 5072
+//*[contains(text(),"-4")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5057 5072
+//*[contains(text(),"Tickets �")]/../../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//*[contains(text(),"13.6")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5069 5072
+//*[contains(text(),"437")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5069 5072
+//*[contains(text(),"481")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"29")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4942 5072
+//DIV[@class='span-6 last']/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()[1]
+4740 5072
+//*[contains(text(),"Active")]/text()
+4638 5072
+//*[contains(text(),"@")]/../../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+/HTML/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[6]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()[1]
+4740 5072
+//*[contains(text(),"22:51")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"Videos")]/../../../following-sibling::*[1]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"SIDNEY CROSBY NEWS FEED")]/../../../../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//BODY[@class='nhl {sportId:90, teamId:16} tier3 player-card teamId-16']/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[6]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()[1]
+5062 5072
+//*[contains(text(),"vs. CAR")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5070 5072
+//*[contains(text(),"PROD")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4810 5072
+//*[contains(text(),"Game Log")]/../../../following-sibling::*[1]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"MyESPN")]/../../../../../../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"0")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4756 5072
+//*[contains(text(),"Try SportsCenter Feed")]/../../../../../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"NEXT GAME")]/../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//*[contains(text(),"246")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5063 5072
+//DIV[@class='mod-content']/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()[1]
+4740 5072
+//*[contains(text(),"STATS")]/../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4741 5072
+//*[contains(text(),"25:24")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5069 5072
+//*[contains(text(),"Photos")]/../../../following-sibling::*[1]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"9:40")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5069 5072
+//*[contains(text(),"In Wins")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4964 5072
+//TABLE[@class='player-profile-container']/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()[1]
+4740 5072
+//*[contains(text(),"4")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4966 5072
+//*[contains(text(),"28.6")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5067 5072
+//*[contains(text(),"0:00")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4766 5072
+//*[contains(text(),"5")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4744 5072
+//*[contains(text(),"Preview �")]/../../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5035 5072
+//*[contains(text(),"8")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4788 5072
+//*[contains(text(),"683")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5069 5072
+//*[contains(text(),"26.9")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"VIDEO PLAYLIST")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4966 5072
+//*[contains(text(),"GP")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//*[contains(text(),"-1")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4743 5072
+//*[contains(text(),"23:33")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"6")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4968 5072
+//*[contains(text(),"PROD")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4979 5072
+//*[contains(text(),"Islanders Rally Past Penguins")]/../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5070 5072
+//*[contains(text(),"18")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4961 5072
+//*[contains(text(),"0")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//*[contains(text(),"9")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4969 5072
+//*[contains(text(),"Fri 10/25")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4981 5072
+//*[contains(text(),"Data provided by Elias Sports Bureau")]/../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"13:58")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5070 5072
+//*[contains(text(),"SHA")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4796 5072
+//*[contains(text(),"-2")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4965 5072
+//*[contains(text(),"2")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4964 5072
+//*[contains(text(),"22:05")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//DIV[@class='bg-elements']/DIV[2]/DIV[1]/DIV[2]/DIV[6]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()[1]
+4740 5072
+//*[@id='subheader']/DIV[1]/DIV[2]/DIV[6]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()
+4740 5072
+//*[contains(text(),"33.3")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5019 5072
+//*[contains(text(),"Customize �")]/../../../../../../../../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[@id='content']/DIV[6]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()
+4740 5072
+//*[contains(text(),"Mon, Oct 28")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5035 5072
+//*[contains(text(),"Player Profile")]/../../../following-sibling::*[1]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"(SO)")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5072 5072
+//*[contains(text(),"PPG")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4796 5072
+//*[contains(text(),"12:58")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5070 5072
+//*[contains(text(),"24:12")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"TOI")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4741 5072
+//*[contains(text(),"11")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4934 5072
+//*[contains(text(),"1644")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"19:28")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5069 5072
+//*[contains(text(),"Career")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4741 5072
+//*[contains(text(),"DATE")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4743 5072
+//*[contains(text(),"+/-")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4979 5072
+//*[contains(text(),"17.0")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"SPLITS")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//*[contains(text(),"if('undefined'!=typeof ad_kvps&&'undefined'!=typeof ad_u&&'undefined'!=typeof ad_counter&&'undefined'!=typeof ad_ord){if('undefined'==typeof ad_site||'undefined'==typeof ad_zone)var ad_site='espn.us.com.nhl',ad_zone='nhlplayer';var ad_finalString='http://ad.Doubleclick.net/adj/'+ad_site+'/'+ad_zone+';'+ad_kvps+'pos=InContent;'+ad_u+'dcopt=ist;sz=300x600,300x250,1x1;tile='+ad_counter+';ord='+ad_ord;document.write('<div data-cb-ad-id='InContent' data-cb-dfp-id=''+ad_kvps+'sz=300x600,300x250,1x1'><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};")]/../../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5072 5072
+//*[contains(text(),"50.0")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5020 5072
+//*[contains(text(),"%")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4756 5072
+//DIV[@class='bg-opaque']/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()[1]
+4740 5072
+//*[contains(text(),"22:51")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5070 5072
+//*[contains(text(),"RESULT")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4743 5072
+//*[contains(text(),"18")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5019 5072
+//*[contains(text(),"10")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4944 5072
+//TD[@class='profile-overview']/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()[1]
+4740 5072
+//*[contains(text(),"OPP")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4743 5072
+//*[contains(text(),"PIM")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4979 5072
+//*[contains(text(),"30")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4922 5072
+//*[contains(text(),"134")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5063 5072
+//*[contains(text(),".videoplayer-show{ height: 217px !important; } .mod-inline.video-player.full-box { padding: 1px; }.mod-video-playlist {border-width: 0px; width: 384px; margin: 0 0 10px; 0; float: none; }.mod-video-playlist a, .mod-video-tags a { color: #225DB7; }.mod-inline.video-player.with-playlist #videoInfo { width:384px; }")]/../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//*[contains(text(),"October")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4976 5072
+//*[contains(text(),"GAME LOG")]/../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4743 5072
+//*[contains(text(),"48:24")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"STATUS ALERTS")]/../../../../../../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"22")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4829 5072
+//*[contains(text(),"24:10")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5069 5072
+//*[contains(text(),"Mon 10/21")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5034 5072
+//*[contains(text(),"TOI/G")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4756 5072
+//*[contains(text(),"FANTASY HOCKEY")]/../../../../DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"10")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5016 5072
+//*[contains(text(),"0.0")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4827 5072
+//*[contains(text(),"SOG")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4796 5072
+//*[contains(text(),"PNC Arena")]/../../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5067 5072
+//*[contains(text(),"Sat 10/19")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4875 5072
+//*[contains(text(),"14.3")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5055 5072
+//*[@id='content-wrapper']/DIV[2]/DIV[6]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/text()
+4740 5072
+//*[contains(text(),"PTS")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4810 5072
+//*[contains(text(),"122:28")]/../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"Splits")]/../../../following-sibling::*[1]/DIV[1]/TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4740 5072
+//*[contains(text(),"Complete Splits �")]/../../../../../../DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4963 5072
+//*[contains(text(),"2")]/../../../../../../../../../../TABLE[1]/TR[1]/TD[1]/DIV[1]/DIV[1]/UL[1]/LI[1]/DIV[1]/SPAN[1]/TEXT()[1]
+4762 5072

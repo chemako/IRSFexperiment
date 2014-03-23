@@ -1,0 +1,140 @@
+//*[contains(text(),": Francobollo ‹")]/../DIV[2]/DIV[1]/DL[1]/DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Emissione:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Colnect ti consente di gestire pi? facilmente")]/../../DIV[1]/DL[1]/DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Emesso il:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[@id='item_full_top']/DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[18]/A[1]/text()
+9998 10000
+//*[contains(text(),"Printed in H. .. Herman printing house (Berlino)). Sheet 100 (10x10). Lithography (two plates). Watermarks Semicircle (scales).")]/../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),".")]/../../DIV[1]/DL[1]/DD[18]/A[1]/TEXT()[1]
+10000 10000
+//A[@target='_blank'][1]/text()[1]
+2836 10000
+//*[contains(text(),"Punteggio:")]/following-sibling::*[1]/A[1]/TEXT()[1]
+2836 10000
+//*[contains(text(),"Serie:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"rosso carminio")]/../../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Dimensioni:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"-03-20")]/../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Compra adesso:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Migliora il nostro catalogo")]/../../DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Stemmi araldici")]/../../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Catalogo di francobolli")]/../../DIV[2]/DIV[1]/DL[1]/DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"1919")]/../../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Lituania")]/../../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"-10-02")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//A[@href='/it/help/collecting/item_score'][1]/text()[1]
+2836 10000
+//*[contains(text(),"Tipo di stampa:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"75Lithuania groat")]/../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Formato:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Num. catalogo:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Descrizione:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Francobollo")]/../../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"1922")]/../../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Tematiche:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Lista dei collezionisti")]/../../../DIV[1]/DL[1]/DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"(si,")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Ordinari")]/../../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"oatmeal stout paper with wood fibers")]/../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"No. 1 Scales (vertical)")]/../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"giallo")]/../../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"LT 36")]/../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"X")]/../../../DIV[1]/DL[1]/DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"100.000")]/../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Filigrana:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Nazione:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Molto Basso")]/../A[1]/TEXT()[1]
+6868 10000
+/HTML/BODY[1]/DIV[1]/DIV[4]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[18]/A[1]/text()[1]
+9998 10000
+//*[contains(text(),"risponder? a queste domande ed altro ancora.")]/../../DIV[1]/DL[1]/DD[18]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"|")]/../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"23 x 19 millimetri")]/../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Numero Stamp")]/../../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Carta:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//DIV[@itemprop='description']/DL[1]/DD[18]/A[1]/text()[1]
+9998 10000
+//*[contains(text(),"comb 12 x 11?")]/../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//DIV[@class='mainContainer']/DIV[4]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[18]/A[1]/text()[1]
+9998 10000
+//*[contains(text(),"Litografia")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Chi pu? offrirvi questo elemento? Chi vuole questo elemento? Colnect ? unico")]/../../DIV[1]/DL[1]/DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Tiratura:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//A[@target='_blank']/text()[1]
+2836 10000
+//*[contains(text(),"The second edition of Berlin")]/../../DIV[2]/DIV[1]/DL[1]/DD[18]/A[1]/TEXT()[1]
+9999 10000
+//DIV[@dir='ltr']/DIV[4]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[18]/A[1]/text()[1]
+9998 10000
+//*[contains(text(),"The second edition of Berlin")]/../../DD[18]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"70,61")]/text()
+9995 10000
+//A[@href='/it/help/collecting/item_score']/text()[1]
+2836 10000
+//*[contains(text(),"Dentellatura:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Michel")]/../../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Valido fino al:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Valore facciale:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//*[@id='item_full_details']/DIV[1]/DL[1]/DD[18]/A[1]/text()
+9998 10000
+//*[contains(text(),"Colori:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//DIV[@class='i_d']/DL[1]/DD[18]/A[1]/text()[1]
+9998 10000
+//DIV[@itemscope='']/DIV[2]/DIV[1]/DL[1]/DD[18]/A[1]/text()[1]
+9998 10000
+//*[contains(text(),"Gomma:")]/../DD[18]/A[1]/TEXT()[1]
+9998 10000
+//DIV[@class='mainRow']/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DL[1]/DD[18]/A[1]/text()[1]
+9998 10000
+//DIV[@itemtype='http://schema.org/Product']/DIV[2]/DIV[1]/DL[1]/DD[18]/A[1]/text()[1]
+9998 10000

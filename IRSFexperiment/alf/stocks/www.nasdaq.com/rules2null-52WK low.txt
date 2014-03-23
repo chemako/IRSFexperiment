@@ -1,0 +1,144 @@
+//TD[@valign='top']/DIV[1]/B[1]/SPAN[1]/text()[1]
+30 6461
+//DIV[@class='quotes_content']/FORM[1]/DIV[3]/TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/text()[1]
+67 6461
+//*[contains(text(),"for the last five trades")]/../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+67 6461
+//*[@id='panel_content_ads']/FORM[1]/DIV[3]/TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/text()
+67 6461
+//*[@id='container']/DIV[5]/DIV[6]/FORM[1]/DIV[3]/TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/text()
+67 6461
+//FORM[@style='width: 220px; float: left; margin-right: 0px']/DIV[3]/TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/text()[1]
+67 6461
+/HTML/BODY[1]/DIV[1]/DIV[5]/DIV[6]/FORM[1]/DIV[3]/TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/text()[1]
+67 6461
+//B[@style='color:black']/SPAN[1]/text()[1]
+30 6461
+//*[contains(text(),"Oct 15, 2012")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"1,000")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6247 6461
+//*[contains(text(),"14:29:46")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"900")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6331 6461
+//*[contains(text(),"NASDAQ Official Price")]/../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//FORM[@action='real-time?symbol=BICK&selected=BICK']/DIV[3]/TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/text()[1]
+6460 6461
+//*[contains(text(),"21.123")]/text()
+6460 6461
+//*[contains(text(),"23.5901")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"Today's Low")]/../../following-sibling::*[1]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//*[contains(text(),"$ ")]/../../following-sibling::*[1]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//*[contains(text(),"100")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+1446 6461
+//*[contains(text(),"Learn more about")]/../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"14:25:13")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"Pre-Market")]/../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+67 6461
+//*[contains(text(),"23.81")]/../../../../following-sibling::*[1]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6457 6461
+//*[contains(text(),"Share Volume")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"After Hours")]/../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+67 6461
+//*[contains(text(),"Open Price/Date")]/../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//*[contains(text(),"6,207")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"0.85%")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6440 6461
+//*[contains(text(),"$ 23.58")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6459 6461
+//*[contains(text(),"52 Wk Low")]/following-sibling::*[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//FORM[@method='post']/DIV[3]/TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/text()[1]
+67 6461
+//DIV[@style='width: 220px; margin-bottom:12px;']/TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/text()[1]
+67 6461
+//*[contains(text(),"real time quotes")]/../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+67 6461
+//*[contains(text(),"BICK's NASDAQ Last Sale")]/../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"0.1999")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6459 6461
+//*[contains(text(),"23.79")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6451 6461
+//*[contains(text(),"Price")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"Previous Close")]/../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//*[contains(text(),"908")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6453 6461
+//*[contains(text(),"14:24:48")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"52 Wk High")]/../following-sibling::*[1]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//*[contains(text(),"$ 23.79 ")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6458 6461
+//*[contains(text(),"Oct 12, 2012")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"Close Price/Date")]/../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//*[contains(text(),"The last five trades feature is not available during the")]/../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"NLS Volume")]/../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//*[contains(text()," ")]/../../../following-sibling::*[1]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Rate it")]/../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+4444 6461
+//*[contains(text(),"28.30")]/../../../following-sibling::*[1]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6458 6461
+//*[contains(text(),"SEE ALL THE TRADES")]/../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+67 6461
+//*[contains(text(),"$ 23.70")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6458 6461
+//*[contains(text(),"Time (ET)")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"10/15/2012 2:43:14 PM")]/../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"$ 23.8004 ")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"N/A")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+3755 6461
+//*[contains(text(),"14:29:51")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6459 6461
+//*[contains(text(),"NLS")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+67 6461
+//*[@id='_52WeekLow']/text()
+66 6461
+//DIV[@style='padding-bottom: 30px; border-top: 1px solid #2a91d3; width:820px; border-left: 0px; padding-top: 30px; margin-top: 49px; margin-left: 0px; padding-left: 20px; background: url(http://content.nasdaq.com/images/qn_panelright.png) 0px 0px repeat-y; *z-index: -1;']/FORM[1]/DIV[3]/TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/text()[1]
+67 6461
+//*[contains(text(),"23.689")]/../../../../following-sibling::*[1]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text()," ")]/../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//*[contains(text(),"$ ")]/../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//*[@id='content']/DIV[6]/FORM[1]/DIV[3]/TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/text()
+67 6461
+//*[contains(text(),"Community Rating:")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//DIV[@class='genTable ndls']/TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/text()[1]
+67 6461
+//*[contains(text(),"of 1 rating")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+5423 6461
+//*[contains(text(),"$ 23.80 ")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6456 6461
+//*[contains(text(),"$ 23.81 ")]/../../../../../TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+6455 6461
+//*[contains(text(),"Today's High")]/../../following-sibling::*[1]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461
+//*[@id='Form1']/DIV[3]/TABLE[1]/TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/text()
+67 6461
+//*[contains(text(),"100% bullish")]/../../../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+4953 6461
+//*[contains(text(),"1y Target Est")]/../../../TR[5]/TD[2]/DIV[1]/B[1]/SPAN[1]/TEXT()[1]
+66 6461

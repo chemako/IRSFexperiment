@@ -1,0 +1,3 @@
+name	//A[@class='btn-split-btn']/text()
+numberAndRole	//UL[@class='general-info']/LI[1]/text()
+college	//*[contains(text(),"College")]/../text()

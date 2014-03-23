@@ -1,0 +1,274 @@
+//*[contains(text(),"After Hours Quotes")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Call Transcripts")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Interactive Charts")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Go Now")]/../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"- Guru Analysis")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"ETFs")]/../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"After Hours Quotes")]/../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Interactive Chart")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Fisher Analysis")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"SEC Filings")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"NASDAQ Official Price")]/../../../../../../H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"Investing Insight")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"document.domain='nasdaq.com'")]/../following-sibling::*[1]/DIV[1]/DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+65 6461
+//*[contains(text(),"My NASDAQ")]/../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),">")]/../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"OShaughnessy Analysis")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[@id='content']/DIV[6]/H1[1]/SPAN[1]/text()
+30 6461
+//*[contains(text(),"Guru Analysis")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Home")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),":")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"makeAd('9','285x100','home','cme','','');")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Analyst Research")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"FUNDAMENTALS")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"makeAd('2','185x35',is_dartSite,is_dartZone,'','');")]/../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Pre-market Quote")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Income Statement")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"COMPANY NEWS")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"- Short Interest")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Investor Relations")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Revenue / EPS Summary")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Dividend History")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Fool Analysis")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Link to Us")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Company Research")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"News & Commentary")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"//setSectionName(propVar);")]/../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Historical Quote")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Browse The Financial Glossary:")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"makeAd('12','88x31',is_dartSite,is_dartZone,'','');")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"InfoQuotes")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Stock Consultant")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"Graham Analysis")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Analyst Stock Research")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Market Activity")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"After Hours")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Home")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"(SEC Form 4)")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"Quotes & Research")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"HOLDINGS")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"Basic Chart")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Pre-market Charts")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"Company Financials")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"The last five trades feature is not available during the")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"Real-Time Quotes")]/../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"After Hours Quote")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Pre-Market Quotes")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"- Insider Form 4")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"STOCK ANALYSIS")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"NASDAQ.com")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"First Trust Exchange-Traded Fund II First Trust BICK Index Fun (BICK) Real-Time Stock Quote - NASDAQ.com")]/../following-sibling::*[1]/DIV[1]/DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"Summary Quote")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"CHARTS")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Validea Momentum Analysis")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Institutional Holdings")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Annual Report")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Market Stream")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Revenue/EPS")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"My NASDAQ")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Gold")]/../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"After Hours Charts")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Nasdaq OMX Listing Center")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Symbol Lookup")]/../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Real Time Quotes")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Press Releases")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Stock Details")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"Advertise With Us")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"real time quotes")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"NLS Trade Reporting")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Dreman Analysis")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Tools")]/../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Zweig Analysis")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"The latest from")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"- Holdings/Insider Summary")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//SPAN[@class='h1_co_name'][1]/text()[1]
+30 6461
+//*[contains(text(),"Save my stocks for next time")]/../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Company News")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Equity Options")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Learn more about")]/../../../../H1[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"Quotes")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Fool.com")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"Real-Time Quotes")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"- Institutional Holdings")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Pre-Market Quotes")]/../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Stock Report")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Join Our Community")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"FlashQuotes")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[@id='panel_content_ads']/H1[1]/SPAN[1]/text()
+30 6461
+//*[contains(text(),"Symbol List Views")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Company List")]/../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"setTimeout(function(){var a=document.createElement('script'); var b=document.getElementsByTagName('script')[0]; a.src=document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/8850.js?'+Math.floor(new Date().getTime()/3600000); a.async=true;a.type='text/javascript';b.parentNode.insertBefore(a,b)}, 1);")]/../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+6461 6461
+//*[contains(text(),"makeAd('1','728x90',is_dartSite,is_dartZone,'','');")]/../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Clear List")]/../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Ownership Summary")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"Lynch Analysis")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Summary")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Search the site:")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"symbol lookup")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"About NASDAQ OMX")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Edit Symbol List")]/../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"- View Competitors")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Public Policy Advocacy")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Sitemap")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Real Time")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"After Hour Charts")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"TheStreet.com")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"Pre-Market Charts")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Charts")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Insiders")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//DIV[@style='padding-bottom: 30px; border-top: 1px solid #2a91d3; width:820px; border-left: 0px; padding-top: 30px; margin-top: 49px; margin-left: 0px; padding-left: 20px; background: url(http://content.nasdaq.com/images/qn_panelright.png) 0px 0px repeat-y; *z-index: -1;']/H1[1]/SPAN[1]/text()[1]
+30 6461
+//*[contains(text(),"NASDAQ OMX Technology")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"for the last five trades")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//DIV[@class='quotes_content']/H1[1]/SPAN[1]/text()[1]
+30 6461
+//*[contains(text(),"- StockConsultant")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Company Headlines")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+31 6461
+//*[contains(text(),"Sentiment")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"NASDAQ OMX")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+/HTML/BODY[1]/DIV[1]/DIV[5]/DIV[6]/H1[1]/SPAN[1]/text()[1]
+30 6461
+//*[contains(text(),"Option Chain")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[@id='container']/DIV[5]/DIV[6]/H1[1]/SPAN[1]/text()
+30 6461
+//*[contains(text(),"Historical Quotes")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Stay Connected")]/../../../../../DIV[5]/DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Competitors")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//SPAN[@class='h1_co_name']/text()[1]
+30 6461
+//*[contains(text(),"Stock Comparison")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"Pre-Market")]/../../../../../H1[1]/SPAN[1]/TEXT()[1]
+30 6461
+//*[contains(text(),"BICK")]/../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+6460 6461
+//*[contains(text(),"Short Interest")]/../../../../../DIV[6]/H1[1]/SPAN[1]/TEXT()[1]
+30 6461

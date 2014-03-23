@@ -1,0 +1,228 @@
+//*[contains(text(),"Carl 'C.J.' Johnson")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Activision, Inc.")]/../../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9689 10000
+//A[@href='style.php?id=114'][1]/text()[1]
+9720 10000
+//*[contains(text(),"' cornerstone")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Colors")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"San Andreas")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9998 10000
+//DIV[@class='half-column']/UL[1]/LI[1]/A[1]/text()[1]
+1396 10000
+//*[contains(text(),"Intense Violence")]/../../../../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9836 10000
+//*[contains(text(),"Meanwhile, the more practical issue of the controversy, regarding the agreement between publisher Rockstar Games and the ESRB, was resolved with considerably less grandstanding. After a short period of review, the ESRB determined that the 'Hot Coffee' code was present in all three released editions of San Andreas, and that Rockstar had failed to completely fulfill its good faith responsibilities.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),", where riots eventually brought a whole city to a halt and awakened new consciousness across the country.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[@id='container']/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/text()
+6233 10000
+//*[contains(text(),"Because it was determined that the 'Hot Coffee' code did exist on the retail game discs, however -- playable or not -- the ESRB judged that Rockstar had failed to meet its terms of the agreement, by not including footage of the explicit scene among the other material it submitted to be rated. In an unprecedented action, on July 20, 2005, the ESRB changed its letter rating of the already-released retail versions of Grand Theft Auto: San Andreas, from 'M' for 'Mature' (17+) to 'AO' for 'Adults Only' (18+). It also added another content descriptor, 'Nudity.'")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"isn't really working for some underworld organization or crime boss mastermind -- he's out to take care of himself and his own family. He is not driven by the immediate promise of wealth or promotion; his goals are far more personal. He must steer the direction of his exploits, to follow them to a satisfactory end.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"by T.J. Deci")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9336 10000
+//*[contains(text(),"Rockstar Games")]/../../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9987 10000
+//DIV[@class='content_column']/DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/text()[1]
+6233 10000
+//*[contains(text(),"'s day-to-day needs. Food presents the easiest way to replenish lost health, so when he is hungry, he'll need to eat -- perhaps at one of San Andreas' fast food chains, like 'Cluckin' Bell,' or 'Burger Shot.' If he doesn't eat enough,")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Rockstar Games")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9987 10000
+//*[contains(text(),"Like its immediate predecessor,")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"October 18, 2005")]/../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9992 10000
+//*[contains(text(),"Genre")]/../following-sibling::*[1]/UL[1]/LI[1]/A[1]/TEXT()[1]
+1396 10000
+//*[contains(text(),"sets out on a long journey that will lead him all across the state. More than any earlier")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Wreak Havoc")]/../../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9984 10000
+//*[contains(text(),", and the pastel-decked, 'me generation' ideals of the early '80s,")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Looking Out For Number One")]/../../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9985 10000
+//*[contains(text(),"enters a stealth mode, and is more likely to be able to sneak into a house, nab some valuables, and head off to the local fence before the residents even wake up.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Visit gyms, restaurants, the barber shop, and more as you customize your character's appearance")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Manhunt")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"Action")]/../../../following-sibling::*[1]/UL[1]/LI[1]/A[1]/TEXT()[1]
+8161 10000
+//*[contains(text(),"Also in the theme of giving more control of over the lead character's development, players will take care of")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Grand Theft Auto: San Andreas ['M' Version]")]/../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Tommy Vercetti")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Wildenbourg's hack first appeared soon after the release of the PC version in June 2005, leading to speculation that the hidden code might also be present in the PS2 and Xbox editions of the game. In the publicity following initial reports of the 'Hot Coffee' sequence, a number of prominent politicians made statements calling for government inquiries, condemning the Grand Theft Auto series, and suggesting new regulations.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Rockstar Games")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9997 10000
+//*[contains(text(),"Features")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+7421 10000
+//UL[@class='left-sidebar-list']/LI[1]/A[1]/text()[1]
+1370 10000
+//*[@id='genre-style']/DIV[2]/UL[1]/LI[1]/A[1]/text()
+1396 10000
+//*[contains(text(),"Licensed soundtrack includes such artists as Willie Nelson, Rick James, Eddie Money, and others")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+/HTML/BODY[1]/DIV[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/text()[1]
+6233 10000
+//*[contains(text(),"Style")]/following-sibling::*[1]/LI[1]/A[1]/TEXT()[1]
+1396 10000
+//*[@id='center_content']/DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/text()
+6233 10000
+//*[contains(text(),"Ride a bicycle, pilot a plane, drive a tractor, and steal vehicles as you make your way across the state")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"H    48057")]/../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Grand Theft Auto: Vice City")]/../../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9996 10000
+//*[contains(text(),"and")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+8516 10000
+//*[contains(text(),"Rockstar North")]/../../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9996 10000
+//*[contains(text(),"Similar Games")]/../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+7383 10000
+//*[contains(text(),",")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+7309 10000
+//*[contains(text(),", and can have him run and strafe, change targets, and shoot in almost any direction, even while moving in another.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"GTA 3")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Urban")]/../../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9917 10000
+//DIV[@class='artist']/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/text()[1]
+6233 10000
+//*[contains(text(),"game,")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9943 10000
+//*[contains(text(),"Players take the role of a young man named")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Also Available On")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+7965 10000
+//*[contains(text(),"According to the standard agreements between game publishers and the ESRB, publishers are required to submit video depicting all of the most potentially offensive aspects of their games for review by an independent panel of three or more content judges. At issue was whether or not the buried, locked 'Hot Coffee' sequence should have been considered as part of the game's content.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//A[@href='style.php?id=114']/text()[1]
+9720 10000
+//*[contains(text(),"True Crime: Streets of L.A.")]/../../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9995 10000
+//*[contains(text(),"is set in a time and place suggested by films like")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"The ESRB's decision to change its rating called on compliant retailers to either alter the game's packaging (with new labels or 'AO' stickers), or to pull the game from their shelves altogether. Meanwhile, Rockstar went to work on a new 'M'-rated version of San Andreas, in which all 'Hot Coffee' code would be removed (or immutably disabled).")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),", who thought he had escaped the gangland lifestyle by moving away from his Los Santos home. When his mother is murdered, he returns to the neighborhood of his childhood, only to become embroiled with threats and danger from all sides. Because of his family and friends who remained in Los Santos, he's considered an enemy-on-sight to rival gang members. Even worse, perhaps, the corrupt local law enforcement frames him for a crime he did not commit.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Release Date")]/../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+6233 10000
+//*[contains(text(),"Eventually, two versions of Grand Theft Auto: San Andreas would exist. The original release, now rated 'AO,' and the newer version with the 'Hot Coffee' code completely suppressed, rated 'M.' To anyone who does not purposefully take measures to unlock the 'Hot Coffee' sequence, these two versions will be exactly the same.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Platform")]/../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+6234 10000
+//*[contains(text(),"AllGame Rating")]/../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+6377 10000
+//*[contains(text(),"is in the same format and style that won millions of fans for")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[@id='content_wrapper']/DIV[1]/DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/text()
+6233 10000
+//*[contains(text(),"Synopsis")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+6883 10000
+//*[contains(text(),"features strong elements of role-playing and character development, encouraging players to customize their version of")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"In the summer of 2005, public revelation of a  hidden, locked gameplay sequence called 'Hot Coffee,' which was buried deep in the code of  Grand Theft Auto: San Andreas, caused a stir among many interested politicians and public figures. It also led to an extraordinary action by the Entertainment Software Rating Board and an unusual financial loss by publisher Rockstar Games.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Screenshots")]/../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+7331 10000
+//*[contains(text(),"'s")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9265 10000
+//*[contains(text(),"Themes")]/../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+8057 10000
+//*[contains(text(),"Menace II Society")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Despite any precedent First Amendment protections, California Assemblyman Leland Yee, media attorney Jack Thompson, and then-rumored 2008 Presidential contender Hillary Clinton (among others) each used the publicity generated by the 'Hot Coffee' controversy as an opportunity to propose content-based legal restrictions on the distribution of video games in the United States.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"will become thin and weak, but too much fast food without any exercise will cause him to grow fat and slow. Players can also choose the clothes that")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//DIV[@class='wrapper']/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/text()[1]
+6233 10000
+//*[contains(text(),"Even though only a year separates the recommended minimum age between an  'M' and 'AO' audience, the difference is enormous in the marketplace. 'M'-rated games are generally considered rough equivalents of 'R'-rated movies, as far as the age-appropriateness of their content goes, and they are sold by nearly all major retailers. However, just as fewer large retail chains are willing to sell 'unrated' or 'NC-17' movies, there are essentially none that will sell 'AO' rated games.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Strong Sexual Content")]/../../../../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9976 10000
+//*[contains(text(),"'s stealth mode, he can also swim; a wrong turn off the pier will no longer result in an instant trip to the emergency ward, and if all else fails, the protagonist may even be able to evade pursuers by taking a quick dip. The game's targeting system has also been adjusted. Using triggers and both analog sticks (? la")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Title")]/../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+6233 10000
+//*[contains(text(),"Overall,")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Start as a gang member on the inner-city streets and rise to power in the corrupt state known as San Andreas")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Action Adventure")]/text()
+9720 10000
+//*[contains(text(),"Strong Language")]/../../../../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9791 10000
+//*[contains(text(),"Miami Vice")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Blood and Gore")]/../../../../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9791 10000
+//*[contains(text(),"Boyz 'N the Hood")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"The name refers to narrative leading up to the controversial sequence, in which the player's character is invited back to a girlfriend's apartment for 'coffee.' The sequence features interactive, graphic scenes depicting the game's lead character, CJ, engaging in sexual relations with his girlfriend. The sequence was initially brought to public attention by Patrick Wildenbourg of the Netherlands, who wrote a computer program 'hack' which unlocks it for play in the PC version of the game.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"strives to provide a wide, deep foundation for its free-form criminal gameplay by setting the story in a slightly exaggerated representation of a familiar (if not glorified) American subculture. As")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"seemed inspired by")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Developer")]/../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+6583 10000
+//*[contains(text(),"GTA")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9994 10000
+//*[contains(text(),"Use Of Drugs")]/../../../../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9970 10000
+//*[contains(text(),", or")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9951 10000
+//*[contains(text(),"Rockstar did not include the 'Hot Coffee' scenes in the San Andreas material it submitted for review, ostensibly because the publisher did not consider the hidden, 'broken' code that allowed users to access the 'Hot Coffee' scene to be a playable part of the game. It is impossible to access the 'Hot Coffee' sequence without altering the games' code (or downloading a patch that does so), which technically violates the End User License Agreement (EULA) imposed on anyone who plays a retail copy of the game.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"C.J.")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"In the past, sales of Rockstar games were often invigorated by the publicity gained from such content-related controversy, but the 'Hot Coffee' situation may not prove so profitable for the publisher. Following the ESRB's announcement to change the game's rating, stock in Take 2, Rockstar's parent company, fell 11 percent overnight. Some analysts predicted that it might cost Rockstar as much as 40 million dollars in lost sales to reprogram, re-manufacture, and re-distribute the title on all three platforms.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"series returns for a third run through the 128-bit generation, with this violent, mature-themed third-person shooter and mission-based driving game. Set in the early-'90s gang culture of 'San Andreas,' a fictional U.S. region modeled after California, the adventure plays out across the entire virtual state, with action centered in its three main cities: Los Santos (based on Los Angeles), San Fiero (San Francisco), and Las Venturas (Las Vegas).")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Publisher")]/../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+6244 10000
+//*[contains(text(),", but it features a number gameplay adjustments and improvements. In addition to")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Rovi Game ID")]/../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+6233 10000
+//*[contains(text(),"Journey to three west coast cities, each the size of Grand Theft Auto: Vice City")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Vice City")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9997 10000
+//*[contains(text(),"has to come up with any money he needs for these things on his own, however, since there won't always be some boss character waiting to pay him off as he completes his missions. One way to scratch up some quick cash is by robbing homes at night. When he jacks the right kind of van and puts on his ski mask,")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//DIV[@class='left-sidebar']/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/text()[1]
+6233 10000
+//*[contains(text(),"To clear his name and save his family,")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"wears, and have him get customized tattoos.")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Crime Pays")]/../../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9980 10000
+//*[contains(text(),"ESRB Rating")]/../../DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+6233 10000
+//*[contains(text(),"Extra Credits")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9461 10000
+//*[contains(text(),"Grand Theft Auto")]/../../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9978 10000
+//*[contains(text(),"), players take more complete control of")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"as they play through his adventure on their own terms. Unlike the protagonist of")]/../../../../DIV[2]/DIV[2]/DIV[2]/DIV[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+10000 10000

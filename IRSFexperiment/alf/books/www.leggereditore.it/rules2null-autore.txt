@@ -1,0 +1,156 @@
+//*[contains(text(),"ABBONAMENTI")]/../../../../following-sibling::*[1]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[@id='content']/DIV[1]/DIV[1]/H3[1]/text()
+89 1275
+//*[contains(text(),"9788865081839")]/../../../../H3[1]/TEXT()[1]
+1274 1275
+//*[contains(text(),"Dark Whisper")]/../H3[1]/TEXT()[1]
+1273 1275
+//*[contains(text(),"STAMPA LA SCHEDA")]/../../../../../H3[1]/TEXT()[1]
+89 1275
+//*[@id='libro_body']/H3[1]/text()
+89 1275
+//*[contains(text(),"Romantic Times Magazine")]/../../H3[1]/TEXT()[1]
+1270 1275
+//*[contains(text(),"continua...")]/../../../../../DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"INVIO MANOSCRITTI")]/../../../../following-sibling::*[1]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"Gli immortali")]/../../../../H3[1]/TEXT()[1]
+1263 1275
+//*[contains(text(),"PROGETTO EDITORIALE")]/../../../../DIV[5]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"AREA GIORNALISTI")]/../../../../following-sibling::*[1]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"Kresley Cole e Gena Showalter uniscono i loro formidabili talenti e danno vitaa una narrazione all?insegna  della magia e della sensualità.")]/../../H3[1]/TEXT()[1]
+1274 1275
+//*[contains(text(),"GENA  SHOWALTER")]/../../H3[1]/TEXT()[1]
+1273 1275
+//*[contains(text(),"KRESLEY COLE")]/text()
+1263 1275
+//*[contains(text(),"TORNA ALL'ELENCO")]/../../../H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"Susan Elizabeth Phillips")]/../../../../../DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"COLLANA")]/../../../../H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"aggiungi al carrello")]/../../../../H3[1]/TEXT()[1]
+586 1275
+//*[contains(text(),"titoli. Clicca qui per vedere tutte le opere di")]/../../../H3[1]/TEXT()[1]
+1275 1275
+//*[contains(text(),"TRADUTTORE")]/../../../../H3[1]/TEXT()[1]
+743 1275
+//*[contains(text(),"RT Book Reviews")]/../../H3[1]/TEXT()[1]
+1269 1275
+//*[contains(text(),"ACCESSO AL SITO")]/../../../DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"Dark Love,")]/../../../../H3[1]/TEXT()[1]
+1263 1275
+//*[contains(text(),"SEGNALA A UN'AMICA")]/../../../../../H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"CATALOGO")]/../../../../DIV[5]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"€ 12,00")]/../../../../H3[1]/TEXT()[1]
+1217 1275
+//*[contains(text(),"ISBN")]/../../../../H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"l'autore del mese")]/../../../DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"Dark Desire")]/../../../../H3[1]/TEXT()[1]
+1263 1275
+//*[contains(text(),"Vuoi ricevere la newsletter?")]/../../../../DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"Susan Elizabeth Phillips ? una delle maestre della narrativa femminile internazionale. I suoi venti romanzi si sono posizionati ai vertici delle classifiche Usa, e hanno raggiunto i primi posti anche in Germania e Regno Unito. Il suo successo ? legato alla capacit? di cogliere con estrema ...")]/../../../../DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"NARRATIVA")]/../../../../H3[1]/TEXT()[1]
+1054 1275
+//*[contains(text(),"I")]/../../H3[1]/TEXT()[1]
+242 1275
+//*[contains(text(),"Le due regine del genere paranormal.")]/../../H3[1]/TEXT()[1]
+1274 1275
+//*[contains(text(),"...e altri")]/../../../H3[1]/TEXT()[1]
+765 1275
+//*[contains(text(),"AREA LIBRERIE")]/../../../../following-sibling::*[1]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"ntoccabile...La vita di Murdoch Wroth, vampiro bello e spregiudicato, ? destinata a cambiare per sempre. Il suo cuore ha ripreso a battere, conquistato dalla bellezza di un?affascinante Valchiria. Ma la loro unione non sar? priva di ostacoli, perch? una terribile maledizione pende sulla donna, e se Wroth osasse anche solo sfiorarla, le infliggerebbe terribili sofferenze.Ad attenderli per? c?? la giusta ricompensa: un?onda di passione travolgente, come il sentimento che li attrae inesorabile. Riusciranno, insieme, a trovare la strada per farsi avvolgere dal bruciante desiderio che arde tra di loro?Per sempre la mia tentazione...L?amore pu? letteralmente trasformare Aleaha Love: basta il contatto con la pelle di un?altra persona perch? lei cambi aspetto e assuma qualsiasi identit?. Durante la sua ultima trasformazione, ha svolto una missione per catturare un gruppo di guerrieri ultraterreni, ma ? stata presa da Breean, un comandante pericoloso e seducente. Per la prima volta, Aleaha vorrebbe solo essere s? stessa... anche se questo significa trasformarsi da cacciatrice a preda.")]/../H3[1]/TEXT()[1]
+1274 1275
+//*[contains(text(),"Ginevra Massari")]/../../../../H3[1]/TEXT()[1]
+1268 1275
+//*[contains(text(),"MULTIMEDIA")]/../../../../DIV[5]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"Registrati")]/../../../../DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"SEGUICI SU")]/../../DIV[5]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"CARRELLO")]/../../../../following-sibling::*[1]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"LEGGI UN ESTRATTO")]/../../../../../H3[1]/TEXT()[1]
+895 1275
+//*[contains(text(),"Dark Dream")]/../../../../H3[1]/TEXT()[1]
+1263 1275
+//*[contains(text(),"NEWS E ANTEPRIME")]/../../../../DIV[5]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"6")]/../../../../H3[1]/TEXT()[1]
+429 1275
+//*[contains(text(),"BLOG")]/../../../../DIV[5]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"che hanno riscosso uno strepitoso successo.")]/../../../H3[1]/TEXT()[1]
+1263 1275
+//*[contains(text(),"”")]/../../../H3[1]/TEXT()[1]
+620 1275
+//*[contains(text(),"DIRITTI D'AUTORE")]/../../../../following-sibling::*[1]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"PAGINE")]/../../../../H3[1]/TEXT()[1]
+89 1275
+//*[@id='main']/DIV[5]/DIV[1]/DIV[1]/H3[1]/text()
+89 1275
+/HTML/BODY[1]/DIV[1]/DIV[5]/DIV[1]/DIV[1]/H3[1]/text()[1]
+89 1275
+//*[contains(text(),"PREZZO")]/../../../../H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"Leggere Editore | Kresley Cole, Gena Showalter - Dark Whisper")]/../following-sibling::*[1]/DIV[1]/DIV[5]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+1274 1275
+//*[contains(text(),"496")]/../../../../H3[1]/TEXT()[1]
+1269 1275
+//*[contains(text(),"Password dimenticata?")]/../../../../DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[@id='sx']/DIV[1]/H3[1]/text()
+89 1275
+//*[contains(text(),"Una lettura carica di fascino.")]/../../H3[1]/TEXT()[1]
+1274 1275
+//*[contains(text(),"INFO@LEGGEREDITORE.IT")]/../../../DIV[5]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"Fresh Fiction")]/../../H3[1]/TEXT()[1]
+1270 1275
+//*[contains(text()," ")]/../../../H3[1]/TEXT()[1]
+1216 1275
+//*[contains(text(),"Gena Showalter ? un?autrice best seller in tutto il mondo, gi? conosciuta in Italia per il grande successo riscosso in edicola con Harmony. Ha scritto oltre trenta romanzi, tutti ai vertici delle pi? prestigiose classifiche.")]/../../H3[1]/TEXT()[1]
+1273 1275
+//*[contains(text(),"2012")]/../../../../H3[1]/TEXT()[1]
+1099 1275
+//*[contains(text(),"Dark Whisper")]/../../../../H3[1]/TEXT()[1]
+1263 1275
+//*[contains(text(),"Semplicemente irresistibili!")]/../../H3[1]/TEXT()[1]
+1274 1275
+//*[contains(text(),"in primo piano")]/../../../DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"CERCA NEL CATALOGO")]/../../DIV[5]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"GENA SHOWALTER")]/../H3[1]/TEXT()[1]
+1273 1275
+//*[contains(text(),"NEWSLETTER")]/../../../../following-sibling::*[1]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),",")]/../../../H3[1]/TEXT()[1]
+941 1275
+//*[contains(text(),"PRESS")]/../../../../DIV[5]/DIV[1]/DIV[1]/H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"dello stesso autore")]/../H3[1]/TEXT()[1]
+311 1275
+//*[contains(text(),"ReaderToReader")]/../../H3[1]/TEXT()[1]
+1274 1275
+//*[contains(text(),"ANNO")]/../../../../H3[1]/TEXT()[1]
+89 1275
+//*[contains(text(),"Dark Pleasure")]/../../../../H3[1]/TEXT()[1]
+1263 1275
+//*[contains(text(),"The Captain of All Pleasures")]/../../../../H3[1]/TEXT()[1]
+1263 1275

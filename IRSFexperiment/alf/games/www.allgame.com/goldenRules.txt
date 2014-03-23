@@ -1,0 +1,3 @@
+title	//*[@id='center_content']/DIV[2]/DIV[2]/P[1]/text()
+genre	//*[@id='genre-style']/DIV[1]/UL/LI/A/text()
+style	//*[@id='genre-style']/DIV[2]/UL/LI/A/text()

@@ -1,0 +1,2 @@
+name	//*[@class='profile']/H1/text()
+team	//*[contains(text(),'Teams')]/../UL/LI/A/text()

@@ -1,0 +1,140 @@
+//*[contains(text(),"Terms of Use")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"Wadada Leo Smith on AllMusic")]/../../../DIV[2]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"!window.jQuery && document.write(unescape('%3Cscript src='/js/jquery/jquery.min.js'%3E%3C/script%3E'))")]/../DIV[3]/DIV[2]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Jump to discography")]/../../DIV[2]/SPAN[1]/TEXT()[1]
+7928 10000
+//*[contains(text(),"sidereel")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"AllMusic")]/../../../../../following-sibling::*[1]/DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"Developers")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"new releases")]/../../../../../following-sibling::*[1]/DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"biography")]/../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9797 10000
+//*[contains(text(),"Maverick")]/../../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9994 10000
+//*[contains(text(),"Song of Humanity (Kanta Pri Homoro)")]/../../SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Earnest")]/../../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9968 10000
+//*[contains(text(),"Help/FAQ")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"Reflectativity [1974]")]/../../SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Wadada Leo Smith - Music Biography, Credits and Discography : AllMusic")]/../following-sibling::*[1]/DIV[3]/DIV[2]/SPAN[1]/TEXT()[1]
+9999 10000
+/HTML/BODY[1]/DIV[3]/DIV[2]/SPAN[1]/text()[1]
+1340 10000
+//*[contains(text(),"Politics/Society")]/../../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9997 10000
+//*[contains(text(),"The Creative Side")]/../../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9983 10000
+//*[contains(text(),"Privacy Policy")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"4.5")]/../../SPAN[1]/TEXT()[1]
+9940 10000
+//*[contains(text(),"allgame")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"_qoptions={qacct:'p-cbO7evNACrYx2'};")]/../DIV[3]/DIV[2]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Wadada Leo Smith")]/text()
+9999 10000
+//*[contains(text(),"artist moods")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9883 10000
+//*[contains(text(),"Submit corrections")]/../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"Log in")]/../../../DIV[3]/DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"allmovie")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"Elegant")]/../../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9988 10000
+//*[contains(text(),"artist themes")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9917 10000
+//SPAN[@itemprop='name'][1]/text()[1]
+2 10000
+//*[contains(text(),"Copyright Policy")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"celebified")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"Cerebral")]/../../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9989 10000
+//*[contains(text(),"World View")]/../../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"by Scott Yanow")]/../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9994 10000
+//*[contains(text(),"explore")]/../../../../../following-sibling::*[1]/DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"Advertise")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"recommendations")]/../../../../../following-sibling::*[1]/DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"Enigmatic")]/../../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9996 10000
+//*[contains(text(),"!window.swfobject && document.write(unescape('%3Cscript src='/js/plugins/swfobject.js'%3E%3C/script%3E'))")]/../DIV[3]/DIV[2]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"discography")]/../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+7928 10000
+//DIV[@itemtype='http://schema.org/MusicGroup']/SPAN[1]/text()[1]
+2 10000
+//*[contains(text(),"Innovative jazz guitarist who explored various musical styles including reggae.")]/../SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Feedback")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//SPAN[@itemprop='name']/text()[1]
+2 10000
+//*[contains(text(),"Sophisticated")]/../../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9981 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('allmusic_728x90_btf'); });")]/../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1754 10000
+//*[contains(text(),"photo gallery")]/../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9960 10000
+//*[contains(text(),"Creative Music -- 1")]/../../SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"allmusic")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"©2013 Rovi Corp | All Rights Reserved")]/../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"divx")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(['load',new Date().getTime()]);var e=document.createElement('script');e.type='text/javascript';e.src=(('http:'===document.location.protocol)?'http:':'https:')+'//'+'d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js';document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(['nrfj','beacon-3.newrelic.com','36752b252e','478200','NAABMENUXEtXUkJfCQ1KIgdFXF1WGXBEQg8QEUwNX1FXQA==',0,272,new Date().getTime(),'','','','','']);")]/../DIV[3]/DIV[2]/SPAN[1]/TEXT()[1]
+10000 10000
+//DIV[@itemscope='']/SPAN[1]/text()[1]
+2 10000
+//*[contains(text(),"Sign Up")]/../../../DIV[3]/DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[@id='wrapper']/DIV[2]/SPAN[1]/text()
+1340 10000
+//*[contains(text(),"Uncompromising")]/../../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9997 10000
+//*[contains(text(),"var NREUMQ=NREUMQ||[];NREUMQ.push(['mark','firstbyte',new Date().getTime()]);")]/../following-sibling::*[1]/DIV[3]/DIV[2]/SPAN[1]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Spiritual")]/../../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9994 10000
+//*[contains(text(),"3")]/../../SPAN[1]/TEXT()[1]
+9789 10000
+//*[contains(text(),"!window.jQuery.ui && document.write(unescape('%3Cscript src='/js/jquery/jquery-ui.min.js'%3E%3C/script%3E'))")]/../DIV[3]/DIV[2]/SPAN[1]/TEXT()[1]
+10000 10000
+//BODY[@class='artist']/DIV[3]/DIV[2]/SPAN[1]/text()[1]
+1340 10000
+//*[contains(text(),"Corporate Site")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//DIV[@class='hidden']/SPAN[1]/text()[1]
+2 10000
+//*[contains(text(),"Organic")]/../../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9986 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('allmusic_728x90_atf'); });")]/../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+7514 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('allmusic_300x250_btf'); });")]/../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"December 18, 1941 in Leland, MS")]/../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('allmusic2_300x250_btf'); });")]/../../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000
+//*[contains(text(),"Share Page")]/../../../../DIV[2]/SPAN[1]/TEXT()[1]
+1340 10000

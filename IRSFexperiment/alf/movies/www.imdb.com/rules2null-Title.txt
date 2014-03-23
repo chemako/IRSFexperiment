@@ -1,0 +1,172 @@
+//*[contains(text(),"|")]/../../H1[1]/TEXT()[1]
+345 10000
+//*[contains(text(),"10")]/../../../../../../H1[1]/TEXT()[1]
+86 10000
+//H1[@itemprop='name'][1]/text()[1]
+0 10000
+//BODY[@class='fixed']/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+7139 10000
+//*[contains(text(),"2011")]/../../TEXT()[1]
+9605 10000
+//DIV[@class='article title-overview']/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+11 10000
+//*[@id='pagecontent']/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+37 10000
+//*[@id='maindetails_center_top']/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+37 10000
+//*[@id='title-overview-widget-layout']/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+0 10000
+//*[contains(text(),"critic")]/../../../H1[1]/TEXT()[1]
+5842 10000
+//*[contains(text(),"377")]/../../../../H1[1]/TEXT()[1]
+9987 10000
+//H1[@class='header'][1]/text()[1]
+0 10000
+//*[contains(text(),"6")]/../../../../../../H1[1]/TEXT()[1]
+86 10000
+//H1[@class='header']/text()[1]
+0 10000
+//*[contains(text(),"(")]/../TEXT()[1]
+10000 10000
+//TABLE[@border='0']/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+0 10000
+//*[contains(text()," ")]/../../../../../../TR[1]/TD[2]/H1[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Cillian Murphy")]/../../H1[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Action")]/../../H1[1]/TEXT()[1]
+9122 10000
+//*[contains(text(),"X")]/../../../../TR[1]/TD[2]/H1[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"3")]/../../../../../../H1[1]/TEXT()[1]
+86 10000
+//*[contains(text(),"user")]/../../../H1[1]/TEXT()[1]
+2773 10000
+//*[contains(text(),"Share")]/../../../../TR[1]/TD[2]/H1[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Metacritic.com")]/../../../H1[1]/TEXT()[1]
+9585 10000
+//DIV[@itemtype='http://schema.org/Movie']/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+1952 10000
+//*[contains(text(),"In Time")]/text()
+9997 10000
+//H1[@itemprop='name']/text()[1]
+0 10000
+//*[contains(text(),"6.6")]/../../../../H1[1]/TEXT()[1]
+9752 10000
+//*[contains(text(),"Stars:")]/../../H1[1]/TEXT()[1]
+627 10000
+//*[contains(text(),"+")]/../../../../../../TR[1]/TD[2]/H1[1]/TEXT()[1]
+0 10000
+//TABLE[@cellspacing='0']/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+0 10000
+//*[@id='root']/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+7139 10000
+//*[contains(text(),"4")]/../../../../../../H1[1]/TEXT()[1]
+86 10000
+//*[contains(text(),"8")]/../../../following-sibling::*[1]/TEXT()[1]
+7154 10000
+//*[contains(text(),"|")]/../../../H1[1]/TEXT()[1]
+5842 10000
+//*[contains(text(),"324")]/../../../../H1[1]/TEXT()[1]
+9987 10000
+//*[contains(text(),"Watchlist")]/../../../../../../TR[1]/TD[2]/H1[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"Andrew Niccol")]/../../H1[1]/TEXT()[1]
+9998 10000
+//*[contains(text(),"In a future where people stop aging at 25, but are engineered to live only one more year, having the means to buy your way out of the situation is a shot at immortal youth. Here, Will Salas finds himself accused of murder and on the run with a hostage - a connection that becomes an important part of the way against the system.")]/../H1[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Share...")]/../../../../../TR[1]/TD[2]/H1[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"133,763")]/../../../../H1[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"/")]/../../../H1[1]/TEXT()[1]
+2942 10000
+//*[@id='styleguide-v2']/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+7139 10000
+//*[contains(text(),"»")]/../../../following-sibling::*[1]/TEXT()[1]
+1926 10000
+//*[contains(text(),"5")]/../../../../../../H1[1]/TEXT()[1]
+86 10000
+//*[contains(text(),"36")]/../../../H1[1]/TEXT()[1]
+9903 10000
+//*[contains(text(),"1")]/../../../../../../H1[1]/TEXT()[1]
+86 10000
+//*[contains(text(),"Thriller")]/../../H1[1]/TEXT()[1]
+9468 10000
+//*[contains(text(),"7")]/../../../../../../H1[1]/TEXT()[1]
+86 10000
+//DIV[@class='maindetails_center']/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+37 10000
+//*[contains(text(),"Down")]/../../../following-sibling::*[1]/TEXT()[1]
+6009 10000
+//*[contains(text(),"Your rating:")]/../../../H1[1]/TEXT()[1]
+86 10000
+//*[@id='wrapper']/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+7139 10000
+//*[contains(text(),")")]/../TEXT()[1]
+10000 10000
+//*[contains(text(),"View rank on IMDbPro")]/../../../following-sibling::*[1]/TEXT()[1]
+1926 10000
+//*[contains(text(),"-")]/../../../../../H1[1]/TEXT()[1]
+86 10000
+//*[@id='overview-top']/H1[1]/text()
+0 10000
+//*[contains(text(),"Amanda Seyfried")]/../../H1[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"17 February 2012 (Italy)")]/../../../H1[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"53/100")]/../../../H1[1]/TEXT()[1]
+9991 10000
+//*[contains(text(),"this week")]/../../../following-sibling::*[1]/TEXT()[1]
+1926 10000
+//*[contains(text(),"10")]/../../../../H1[1]/TEXT()[1]
+2813 10000
+//*[contains(text(),"Sci-Fi")]/../../H1[1]/TEXT()[1]
+9806 10000
+//*[contains(text(),"Watch Trailer")]/../../../../TR[1]/TD[2]/H1[1]/TEXT()[1]
+9518 10000
+//*[contains(text(),"/")]/../../../../../H1[1]/TEXT()[1]
+86 10000
+//*[@id='content-2-wide']/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+37 10000
+//*[contains(text(),"10")]/../../../../../H1[1]/TEXT()[1]
+86 10000
+//*[contains(text(),"users")]/../../../H1[1]/TEXT()[1]
+2942 10000
+//*[contains(text()," ")]/../../../../H1[1]/TEXT()[1]
+86 10000
+//*[contains(text(),"Loading")]/../../../../../../TR[1]/TD[2]/H1[1]/TEXT()[1]
+0 10000
+//*[contains(text(),"0")]/../../../../../../../TR[1]/TD[2]/H1[1]/TEXT()[1]
+86 10000
+//*[contains(text(),"9")]/../../../../../../H1[1]/TEXT()[1]
+86 10000
+//*[contains(text(),"X")]/../../../../../../H1[1]/TEXT()[1]
+86 10000
+//*[contains(text(),"2")]/../../../../../../H1[1]/TEXT()[1]
+86 10000
+//DIV[@itemscope='']/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+37 10000
+/HTML/BODY[1]/DIV[3]/DIV[1]/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+7139 10000
+//DIV[@class='redesign']/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+37 10000
+//*[contains(text(),"Justin Timberlake")]/../../H1[1]/TEXT()[1]
+9999 10000
+//DIV[@class='redesign']/DIV[4]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+7139 10000
+//*[@id='title-overview-widget']/TABLE[1]/TBODY[1]/TR[1]/TD[2]/H1[1]/text()
+11 10000
+//*[contains(text(),"See full cast and crew")]/../../H1[1]/TEXT()[1]
+627 10000
+//*[contains(text(),"Director:")]/../../H1[1]/TEXT()[1]
+1329 10000
+//*[contains(text(),"Writer:")]/../../H1[1]/TEXT()[1]
+6643 10000
+//*[contains(text(),"Top 500")]/../../../following-sibling::*[1]/TEXT()[1]
+9805 10000
+//*[contains(text(),"8")]/../../../../../../H1[1]/TEXT()[1]
+86 10000
+//TABLE[@cellpadding='0']/TBODY[1]/TR[1]/TD[2]/H1[1]/text()[1]
+0 10000

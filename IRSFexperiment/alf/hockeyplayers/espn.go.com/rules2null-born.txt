@@ -1,0 +1,118 @@
+//*[@id='content']/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/text()
+3444 5072
+//*[contains(text(),"246")]/../../../../../DIV[3]/UL[3]/LI[1]/TEXT()[1]
+5070 5072
+//*[contains(text(),"MyESPN")]/../../../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3444 5072
+//*[contains(text(),"Photos")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3444 5072
+//*[contains(text(),"Stats")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3444 5072
+//*[contains(text(),"Complete Stats »")]/../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3791 5072
+//UL[@class='player-metadata floatleft']/LI[1]/text()[1]
+243 5072
+//*[contains(text(),"Experience")]/../../LI[1]/TEXT()[1]
+1753 5072
+//*[contains(text(),"A")]/../../../../../DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3791 5072
+//*[@id='content-wrapper']/DIV[2]/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/text()
+3444 5072
+//*[contains(text(),"Pittsburgh Penguins")]/../../following-sibling::*[1]/LI[1]/TEXT()[1]
+4916 5072
+//*[contains(text(),"10")]/../../../../../DIV[3]/UL[3]/LI[1]/TEXT()[1]
+4919 5072
+//*[contains(text(),"26")]/../LI[1]/TEXT()[1]
+4489 5072
+//*[contains(text(),"Complete Stats »")]/../../../DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3791 5072
+//*[contains(text(),"Aug 7, 1987 in Cole Harbour, Nova Scotia")]/text()
+5071 5072
+//*[contains(text(),"2013-14 Season")]/../../DIV[3]/UL[3]/LI[1]/TEXT()[1]
+4421 5072
+//*[contains(text(),"if('undefined'!=typeof ad_kvps&&'undefined'!=typeof ad_u&&'undefined'!=typeof ad_counter&&'undefined'!=typeof ad_ord){if('undefined'==typeof ad_site||'undefined'==typeof ad_zone)var ad_site='espn.us.com.nhl',ad_zone='nhlplayer';var ad_finalString='http://ad.Doubleclick.net/adj/'+ad_site+'/'+ad_zone+';'+ad_kvps+'pos=Banner;'+ad_u+'sz=728x90,970x66,924x50,1x1;tile='+ad_counter+';ord='+ad_ord;document.write('<div data-cb-ad-id='Banner' data-cb-dfp-id=''+ad_kvps+'sz=728x90,970x66,924x50,1x1'><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};")]/../../../../following-sibling::*[1]/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+5072 5072
+//*[contains(text(),"Customize »")]/../../../../../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3444 5072
+//*[contains(text(),"Drafted")]/../../LI[1]/TEXT()[1]
+1201 5072
+//*[contains(text(),"2005: 1st Rnd, 1st by PIT")]/../LI[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"GAME LOG")]/../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+4218 5072
+//*[contains(text(),"PTS")]/../../../../../DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3922 5072
+//*[@id='subheader']/DIV[1]/DIV[2]/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/text()
+3444 5072
+//*[contains(text(),"Sidney Crosby")]/following-sibling::*[1]/UL[3]/LI[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"5' 11', 200 lbs")]/../following-sibling::*[1]/LI[1]/TEXT()[1]
+5072 5072
+//*[contains(text(),"Splits")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3444 5072
+//*[contains(text(),"NEXT GAME")]/../../../../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+4421 5072
+//DIV[@class='player-bio']/UL[3]/LI[1]/text()[1]
+243 5072
+//DIV[@class='bg-elements']/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/text()[1]
+3444 5072
+//DIV[@class='mod-container mod-no-header-footer mod-page-header']/DIV[2]/DIV[3]/UL[3]/LI[1]/text()[1]
+3444 5072
+//DIV[@class='container']/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/text()[1]
+3444 5072
+//*[contains(text(),"{'playerId':711,'percentChange':0,'averageDraftPosition':1.9,'percentOwned':100,'playerRaterSEASON':14.9,'playerRater7DAY':3.9,'mostRecentNews':{'news':'Crosby saw his eight-game point streak end Monday, thanks to a stellar performance in goal by Colorado's Jean-Sebastian Giguere.','spin':'Crosby registered a season-high seven shots, had five more attempts blocked and missed the net once. Thanks to seven power-play opportunities, Crosby skated nearly 27 minutes. Unfortunately for Crosby and the rest of the Pens, Giguere was simply unbeatable Monday night.','date':'Mon Oct 21'},'fullName':'Sidney Crosby','seasonOutlook':{'outlook':'Can we blame Crosby for suffering yet another injury-shortened campaign last season? It's difficult to say he is brittle when it's an errant puck that slammed into his face. Then again, it has been four seasons since Crosby graced us with a full campaign. It did appear as though he was back to full speed from his head-injury woes last season, but there is always a lingering risk of re-injury with such ailments. We do know that Crosby will put up drool-worry fantasy stats when he is on the ice, to the extent that we would suggest using the second-overall pick to acquire him. His ability to completely dominate the game stuffs almost all the relevant fantasy categories you are looking for. If Crosby can play all 82 games, he will be in contention for the Art Ross Trophy, but we suspect he will miss a game here or there due to his all-out style of play.','seasonId':2014,'date':'Mon Sep 23'},'playerRater30DAY':14.9,'playerRater15DAY':10.9,'positionRank':1}")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+5072 5072
+//*[contains(text(),"FANTASY HOCKEY")]/../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3444 5072
+//*[contains(text(),"Age")]/../../LI[1]/TEXT()[1]
+248 5072
+//*[contains(text(),"#87 C")]/../following-sibling::*[1]/LI[1]/TEXT()[1]
+5070 5072
+//*[contains(text(),"Complete Game Log »")]/../../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+4218 5072
+//*[contains(text(),"STATUS")]/../../../../../../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+4746 5072
+//*[contains(text(),"Videos")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3444 5072
+//*[contains(text(),"18")]/../../../../../DIV[3]/UL[3]/LI[1]/TEXT()[1]
+4976 5072
+//*[contains(text(),"STATS")]/../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3792 5072
+//*[contains(text(),"8 years")]/../LI[1]/TEXT()[1]
+4860 5072
+//*[contains(text(),"Game Log")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3444 5072
+//*[contains(text(),"Data provided by Elias Sports Bureau")]/../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3444 5072
+//*[contains(text(),"683")]/../../../../../DIV[3]/UL[3]/LI[1]/TEXT()[1]
+5070 5072
+//*[contains(text(),"SIDNEY CROSBY NEWS FEED")]/../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"Player Profile")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3444 5072
+//*[contains(text(),"Career")]/../../../../../../DIV[3]/UL[3]/LI[1]/TEXT()[1]
+4218 5072
+//DIV[@class='mod-content']/DIV[3]/UL[3]/LI[1]/text()[1]
+3444 5072
+//*[contains(text(),"Sidney Crosby")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+5065 5072
+/HTML/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/text()[1]
+3444 5072
+//*[contains(text(),"Crosby saw his eight-game point streak end Monday, thanks to a stellar performance in goal by Colorado netminder, JS Giguere. (about 6 days ago)")]/../../../../../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+5071 5072
+//*[contains(text(),"8")]/../../../../../DIV[3]/UL[3]/LI[1]/TEXT()[1]
+4588 5072
+//*[contains(text(),"437")]/../../../../../DIV[3]/UL[3]/LI[1]/TEXT()[1]
+5069 5072
+//*[contains(text(),"Data Provided By")]/../../../../../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+5072 5072
+//*[contains(text(),"Go to")]/../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3444 5072
+//*[contains(text()," ")]/../../../../../../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+4746 5072
+//*[contains(text(),"if('undefined'!=typeof ad_kvps&&'undefined'!=typeof ad_u&&'undefined'!=typeof ad_counter&&'undefined'!=typeof ad_ord){if('undefined'==typeof ad_site||'undefined'==typeof ad_zone)var ad_site='espn.us.com.nhl',ad_zone='nhlplayer';var ad_finalString='http://ad.Doubleclick.net/adj/'+ad_site+'/'+ad_zone+';'+ad_kvps+'pos=InContent;'+ad_u+'dcopt=ist;sz=300x600,300x250,1x1;tile='+ad_counter+';ord='+ad_ord;document.write('<div data-cb-ad-id='InContent' data-cb-dfp-id=''+ad_kvps+'sz=300x600,300x250,1x1'><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};")]/../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/TEXT()[1]
+5072 5072
+//*[contains(text(),"G")]/../../../../../DIV[3]/UL[3]/LI[1]/TEXT()[1]
+3791 5072
+//BODY[@class='nhl {sportId:90, teamId:16} tier3 player-card teamId-16']/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[1]/text()[1]
+5022 5072

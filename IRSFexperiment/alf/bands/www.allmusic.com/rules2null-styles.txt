@@ -1,0 +1,112 @@
+//*[contains(text(),"Cerebral")]/../../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9982 10000
+//*[contains(text(),"Enigmatic")]/../../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9994 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('allmusic_728x90_atf'); });")]/../../../../DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9342 10000
+//*[contains(text(),"related")]/../../../../../DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9761 10000
+//*[contains(text(),"Leo Smith")]/../../../DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"biography")]/../../../../DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9752 10000
+//*[contains(text(),"World View")]/../../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Uncompromising")]/../../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9996 10000
+//*[contains(text(),"photo gallery")]/../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9951 10000
+//*[contains(text(),"Avant-Garde Jazz")]/text()
+9994 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('allmusic_728x90_btf'); });")]/../../../../DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+8720 10000
+//*[@id='main']/DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/text()
+8650 10000
+//*[contains(text(),"Jazz Instrument")]/../../LI[1]/A[1]/TEXT()[1]
+9968 10000
+//A[@href='/style/avant-garde-jazz-ma0000002438']/text()[1]
+9994 10000
+//*[contains(text(),"December 18, 1941 in Leland, MS")]/../../DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//BODY[@class='artist']/DIV[3]/DIV[4]/DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/text()[1]
+8918 10000
+//*[contains(text(),"Elegant")]/../../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9983 10000
+//*[contains(text(),"artist moods")]/../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9807 10000
+//*[contains(text(),"discography")]/../../../../DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9412 10000
+//*[contains(text(),"Matthew Shipp's New Orbit")]/../../../../DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Share Page")]/../../../following-sibling::*[1]/DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+8650 10000
+//*[contains(text(),"artist themes")]/../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9874 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('allmusic2_300x250_btf'); });")]/../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+8650 10000
+//*[contains(text(),"Wadada Leo Smith on AllMusic")]/../../following-sibling::*[1]/DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Jump to discography")]/../following-sibling::*[1]/DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9412 10000
+//*[@id='sidebar']/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/text()
+8650 10000
+//*[contains(text(),"overview")]/../../../../../DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9377 10000
+//DIV[@class='left']/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/text()[1]
+8650 10000
+//*[contains(text(),"Wadada Leo Smith's Golden Quartet")]/../../../../DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+/HTML/BODY[1]/DIV[3]/DIV[4]/DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/text()[1]
+8918 10000
+//*[contains(text(),"compositions")]/../../../../../DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9940 10000
+//*[contains(text(),"listen")]/../../../../../DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9658 10000
+//*[contains(text(),"Free Jazz")]/../../LI[1]/A[1]/TEXT()[1]
+9997 10000
+//*[contains(text(),"Artist Metadata IDs")]/../../../DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+8650 10000
+//*[contains(text(),"The Creative Side")]/../../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9978 10000
+//*[contains(text(),"by Scott Yanow")]/../../../../DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9990 10000
+//*[contains(text(),"Ishmael Wadada Leo Smith")]/../../../DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Spiritual")]/../../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9991 10000
+//*[contains(text(),"Submit corrections")]/../../DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+8650 10000
+//*[contains(text(),"Yo Miles!")]/../../../../DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Modern Creative")]/../../LI[1]/A[1]/TEXT()[1]
+9996 10000
+//*[contains(text(),"Modern Free")]/../../LI[1]/A[1]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Earnest")]/../../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9947 10000
+//*[contains(text(),"Trumpet Jazz")]/../../LI[1]/A[1]/TEXT()[1]
+9997 10000
+//*[contains(text(),"credits")]/../../../../../DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+8709 10000
+//*[contains(text(),"Jazz")]/../../../../DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9888 10000
+//DL[@class='details']/DD[2]/UL[1]/LI[1]/A[1]/text()[1]
+8650 10000
+//*[contains(text(),"Politics/Society")]/../../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9996 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('allmusic_300x250_btf'); });")]/../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+8650 10000
+//DD[@class='styles']/UL[1]/LI[1]/A[1]/text()[1]
+8752 10000
+//*[contains(text(),"Maverick")]/../../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9994 10000
+//*[contains(text(),"Organic")]/../../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9978 10000
+//*[contains(text(),"Sophisticated")]/../../../../DL[1]/DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9969 10000
+//*[@id='wrapper']/DIV[4]/DIV[1]/DL[1]/DD[2]/UL[1]/LI[1]/A[1]/text()
+8918 10000
+//A[@href='/style/avant-garde-jazz-ma0000002438'][1]/text()[1]
+9994 10000
+//*[contains(text(),"Wadada Smith")]/../../../DD[2]/UL[1]/LI[1]/A[1]/TEXT()[1]
+9999 10000

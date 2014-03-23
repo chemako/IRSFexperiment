@@ -1,0 +1,2 @@
+title	//*[@itemprop='name']/text()
+year	//*[@itemprop='name']/SPAN/text()

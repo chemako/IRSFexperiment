@@ -1,0 +1,154 @@
+//*[contains(text(),"allmusic")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"The catalyst for")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Share Page")]/../../../following-sibling::*[1]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"Developers")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//DD[@class='release-date'][1]/text()[1]
+2193 10000
+//*[contains(text(),"review")]/../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+8596 10000
+//*[contains(text(),"Copyright Policy")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"and")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+9445 10000
+//*[contains(text(),"The catalyst for Beethoven's Diabelli Variations, which was to be one of his last and by far the longest works for solo piano, was the request of contemporary composer and publisher Anton Diabelli, who invited 50 leading composers to submit variation sets on one of his waltzes. Beethoven, who was a master of theme and variation, made easy work of this task. Despite submissions by other equally famous composers (including Schubert and Liszt), Beethoven's work clearly stood out above the rest. Diabelli himself was to have compared it to Bach's Goldberg Variations. The theme and 32 variations run the gamut of varying temperaments, tempi, and emotions, providing a challenge to pianists' technique and listeners' attention.Few pianists have been as consistent and uniform in their interpretation of Beethoven as Sviatoslav Richter. His approach is unshakably clean and unsullied by over-romanticized and over-pedaled styles. This recording of the Diabelli Variations is no different; Richter is quite true to the score and is able to make splendid and abrupt changes in character with no apparent effort. Many of Richter's recorded works are from live concerts made in countless venues. Depending on the instrument he was given and the acoustics in the room, this unfortunately yielded sound quality that is less than ideal, as is the case on this album. The piano itself appears to be of poor quality; the upper registers are substantially out of tune and the bass has no depth or resonance. Still, Richter's technique and sublime musicianship make it all worthwhile.")]/../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Submit corrections")]/../../DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(['load',new Date().getTime()]);var e=document.createElement('script');e.type='text/javascript';e.src=(('http:'===document.location.protocol)?'http:':'https:')+'//'+'d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js';document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(['nrfj','beacon-3.newrelic.com','36752b252e','478200','NAABMENUXEtXUkJfCQ1KIgdFXF1WGXBaVBMOSgoKVVBK',0,1408,new Date().getTime(),'','','','','']);")]/../DIV[3]/DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),", who invited 50 leading composers to submit variation sets on one of his waltzes.")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),"overview")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4478 10000
+//*[contains(text(),"'s technique and sublime musicianship make it all worthwhile.")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),"AllMusic")]/../../../../../../DIV[3]/DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"'s Diabelli Variations, which was to be one of his last and by far the longest works for solo piano, was the request of contemporary composer and publisher")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),"is quite true to the score and is able to make splendid and abrupt changes in character with no apparent effort. Many of")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Keyboard")]/../../../../DD[2]/TEXT()[1]
+9913 10000
+//*[contains(text(),"Beethoven: Diabelli Variations, Op. 120 - Sviatoslav Richter : Songs, Reviews, Credits, Awards : AllMusic")]/../following-sibling::*[1]/DIV[3]/DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+9999 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('allmusic_300x250_btf'); });")]/../../../DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"similar albums")]/../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+6881 10000
+//*[contains(text(),", who was a master of theme and variation, made easy work of this task. Despite submissions by other equally famous composers (including")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),"!window.swfobject && document.write(unescape('%3Cscript src='/js/plugins/swfobject.js'%3E%3C/script%3E'))")]/../DIV[3]/DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[@id='wrapper']/DIV[3]/DIV[1]/DL[1]/DD[2]/text()
+4435 10000
+//*[contains(text(),"Corporate Site")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"'s Goldberg Variations. The theme and 32 variations run the gamut of varying temperaments, tempi, and emotions, providing a challenge to pianists' technique and listeners' attention.")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Mike D. Brownell")]/../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+9990 10000
+//DIV[@class='left']/DL[1]/DD[2]/text()[1]
+4435 10000
+//*[contains(text(),"Help/FAQ")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"'s work clearly stood out above the rest.")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Advertise")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[@id='main']/DIV[1]/DL[1]/DD[2]/text()
+4435 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('allmusic_728x90_atf'); });")]/../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4478 10000
+//*[contains(text(),"Dignified/Noble")]/../../../../DL[1]/DD[2]/TEXT()[1]
+9985 10000
+//*[contains(text(),"allgame")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//DL[@class='details']/DD[2]/text()[1]
+4435 10000
+//*[contains(text(),"tracks")]/../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4740 10000
+//*[contains(text(),"_qoptions={qacct:'p-cbO7evNACrYx2'};")]/../DIV[3]/DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Beethoven: Diabelli Variations, Op. 120 (1995)")]/../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+9999 10000
+//*[@id='sidebar']/DL[1]/DD[2]/text()
+4435 10000
+//*[contains(text(),"by Mike D. Brownell")]/../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+9990 10000
+//*[contains(text(),"sidereel")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"celebified")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"Album Metadata IDs")]/../../../DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"W 145263")]/../../../../../DD[2]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Tuneful")]/../../../../DL[1]/DD[2]/TEXT()[1]
+9974 10000
+//BODY[@class='album']/DIV[3]/DIV[3]/DIV[1]/DL[1]/DD[2]/text()[1]
+4435 10000
+//*[contains(text(),"4.5")]/../../DD[2]/TEXT()[1]
+9759 10000
+//*[contains(text(),"discography browser")]/../following-sibling::*[1]/DD[2]/TEXT()[1]
+6982 10000
+//*[contains(text(),"Cerebral")]/../../../../DL[1]/DD[2]/TEXT()[1]
+9929 10000
+//*[contains(text(),"releases")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"Feedback")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"himself was to have compared it to")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),". His approach is unshakably clean and unsullied by over-romanticized and over-pedaled styles. This recording of the Diabelli Variations is no different;")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),"Animated")]/../../../../DL[1]/DD[2]/TEXT()[1]
+9975 10000
+//DD[@class='release-date']/text()[1]
+2193 10000
+//*[contains(text(),"Beethoven: Diabelli Variations, Op. 120 by Sviatoslav Richter on AllMusic")]/../../following-sibling::*[1]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Privacy Policy")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"4.5")]/../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+9759 10000
+//*[contains(text(),"divx")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"Few pianists have been as consistent and uniform in their interpretation of")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+9999 10000
+//*[contains(text(),"'s recorded works are from live concerts made in countless venues. Depending on the instrument he was given and the acoustics in the room, this unfortunately yielded sound quality that is less than ideal, as is the case on this album. The piano itself appears to be of poor quality; the upper registers are substantially out of tune and the bass has no depth or resonance. Still,")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),"album moods")]/../../DL[1]/DD[2]/TEXT()[1]
+8785 10000
+//*[contains(text(),"as")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('allmusic_728x90_btf'); });")]/../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+/HTML/BODY[1]/DIV[3]/DIV[3]/DIV[1]/DL[1]/DD[2]/text()[1]
+4435 10000
+//*[contains(text(),"allmovie")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"credits")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4581 10000
+//*[contains(text(),"),")]/../../../../../DIV[1]/DL[1]/DD[2]/TEXT()[1]
+9936 10000
+//*[contains(text(),"MW0001390294")]/../../../../../DD[2]/TEXT()[1]
+9999 10000
+//*[contains(text(),"Sviatoslav Richter")]/../../following-sibling::*[1]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+9999 10000
+//*[contains(text(),"var NREUMQ=NREUMQ||[];NREUMQ.push(['mark','firstbyte',new Date().getTime()]);")]/../following-sibling::*[1]/DIV[3]/DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),"!window.jQuery.ui && document.write(unescape('%3Cscript src='/js/jquery/jquery-ui.min.js'%3E%3C/script%3E'))")]/../DIV[3]/DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000
+//*[contains(text(),"©2012 Rovi Corp | All Rights Reserved")]/../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+5057 10000
+//*[contains(text(),"Terms of Use")]/../../../../DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"googletag.cmd.push(function(){ googletag.display('allmusic2_300x250_btf'); });")]/../../../DL[1]/DD[2]/TEXT()[1]
+4435 10000
+//*[contains(text(),"!window.jQuery && document.write(unescape('%3Cscript src='/js/jquery/jquery.min.js'%3E%3C/script%3E'))")]/../DIV[3]/DIV[3]/DIV[1]/DL[1]/DD[2]/TEXT()[1]
+10000 10000

@@ -1,0 +1,122 @@
+//*[contains(text(),"APG")]/../../../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4678 4917
+//*[contains(text(),"6.7")]/../../../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4901 4917
+//*[contains(text(),"Photos")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4522 4917
+/HTML/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/text()[1]
+4522 4917
+//*[contains(text(),"{'playerId':106,'percentChange':0,'averageDraftPosition':79.9,'percentOwned':100,'playerRaterSEASON':3.2,'mostRecentNews':{'news':'Nash (neck) may sit Wednesday against the Warriors, ESPNLosAngeles.com reports.','spin':'An official decision has not been made, but coach Mike D'Antoni said Sunday that there's a possibility Nash sits out the second of back-to-back games to begin the season. It will likely depend on how Nash feels after Tuesday's opener against the Clippers.','date':'Sun Oct 27'},'fullName':'Steve  Nash','seasonOutlook':{'outlook':'Nash struggled through a truly disastrous first season in Los Angeles, playing in only 50 games and posting only 12.7 points, 6.7 assists and 1.1 3-pointers per game.  Slowed by various injuries in 2012-13, the 39-year old will be a risky investment in fantasy leagues this season.  The Lakers don't have much in the way of depth behind him, but they'll still need to limit his minutes if they want to keep him healthy all season.  Nash will still be able to provide assists, 3-pointers and great efficiency when healthy, but there are definitely safer options in a deep point guard class this season.','seasonId':2014,'date':'Tue Oct 8'},'positionRank':34}")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4917 4917
+//*[contains(text(),"Complete Stats »")]/../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4523 4917
+//BODY[@class='nba {sportId:46, teamId:13} tier3 player-card lal']/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/text()[1]
+4904 4917
+//*[contains(text(),"Player Profile")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4522 4917
+//*[contains(text(),"Experience")]/../../LI[3]/TEXT()[1]
+4265 4917
+//*[contains(text(),"if('undefined'!=typeof ad_kvps&&'undefined'!=typeof ad_u&&'undefined'!=typeof ad_counter&&'undefined'!=typeof ad_ord){if('undefined'==typeof ad_site||'undefined'==typeof ad_zone)var ad_site='espn.us.com.nba',ad_zone='nbaplayer';var ad_finalString='http://ad.Doubleclick.net/adj/'+ad_site+'/'+ad_zone+';'+ad_kvps+'pos=Banner;'+ad_u+'sz=728x90,970x66,924x50,1x1;tile='+ad_counter+';ord='+ad_ord;document.write('<div data-cb-ad-id='Banner' data-cb-dfp-id=''+ad_kvps+'sz=728x90,970x66,924x50,1x1'><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};")]/../../../../following-sibling::*[1]/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4917 4917
+//UL[@class='player-metadata floatleft']/LI[3]/text()[1]
+4247 4917
+//*[contains(text(),"Stats")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4522 4917
+//*[contains(text(),"MyESPN")]/../../../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4523 4917
+//*[contains(text(),"Los Angeles Lakers")]/../../following-sibling::*[1]/LI[3]/TEXT()[1]
+4904 4917
+//*[contains(text(),"Data provided by Elias Sports Bureau")]/../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4523 4917
+//*[contains(text(),"Bio")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4910 4917
+//*[contains(text(),"Career")]/../../../../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4542 4917
+//*[contains(text(),"12.7")]/../../../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4910 4917
+//*[contains(text(),"Santa Clara")]/text()
+4912 4917
+//*[contains(text(),".videoplayer-show{ height: 217px !important; } .mod-inline.video-player.full-box { padding: 1px; }.mod-video-playlist {border-width: 0px; width: 384px; margin: 0 0 10px; 0; float: none; }.mod-video-playlist a, .mod-video-tags a { color: #225DB7; }.mod-inline.video-player.with-playlist #videoInfo { width:384px; }")]/../../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4822 4917
+//*[contains(text(),"PER")]/../../../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4542 4917
+//*[contains(text(),"Customize »")]/../../../../../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4523 4917
+//*[contains(text(),"Steve Nash")]/following-sibling::*[1]/UL[3]/LI[3]/TEXT()[1]
+4916 4917
+//*[@id='content']/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/text()
+4522 4917
+//*[contains(text(),"Steve Nash")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4913 4917
+//*[contains(text(),"Videos")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4522 4917
+//*[contains(text(),"STATS")]/../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4523 4917
+//*[contains(text(),"Complete Game Log »")]/../../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4523 4917
+//*[contains(text(),"Born")]/../../LI[3]/TEXT()[1]
+4247 4917
+//*[contains(text(),"Game Log")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4522 4917
+//DIV[@class='bg-elements']/DIV[2]/DIV[1]/DIV[2]/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/text()[1]
+4522 4917
+//*[contains(text(),"Splits")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4522 4917
+//*[contains(text(),"1996: 1st Rnd, 15th by PHX")]/following-sibling::*[1]/TEXT()[1]
+4916 4917
+//*[contains(text(),"Complete Stats »")]/../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4523 4917
+//*[contains(text(),"16.00")]/../../../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4916 4917
+//*[contains(text(),"2.8")]/../../../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4879 4917
+//*[contains(text(),"2012-13 Season")]/../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4542 4917
+//*[contains(text(),"Go to")]/../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4522 4917
+//DIV[@class='player-bio']/UL[3]/LI[3]/text()[1]
+4247 4917
+//*[@id='subheader']/DIV[1]/DIV[2]/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/text()
+4522 4917
+//*[contains(text(),"6' 3', 178 lbs")]/../following-sibling::*[1]/LI[3]/TEXT()[1]
+4917 4917
+//*[contains(text(),"GAME LOG")]/../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4523 4917
+//*[contains(text(),"STEVE NASH NEWS FEED")]/../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4916 4917
+//DIV[@class='container']/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/text()[1]
+4522 4917
+//*[contains(text(),"FANTASY BASKETBALL")]/../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4522 4917
+//*[contains(text(),"if('undefined'!=typeof ad_kvps&&'undefined'!=typeof ad_u&&'undefined'!=typeof ad_counter&&'undefined'!=typeof ad_ord){if('undefined'==typeof ad_site||'undefined'==typeof ad_zone)var ad_site='espn.us.com.nba',ad_zone='nbaplayer';var ad_finalString='http://ad.Doubleclick.net/adj/'+ad_site+'/'+ad_zone+';'+ad_kvps+'pos=InContent;'+ad_u+'dcopt=ist;sz=300x600,300x250,1x1;tile='+ad_counter+';ord='+ad_ord;document.write('<div data-cb-ad-id='InContent' data-cb-dfp-id=''+ad_kvps+'sz=300x600,300x250,1x1'><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};")]/../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4917 4917
+//*[contains(text(),"PPG")]/../../../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4523 4917
+//*[contains(text(),"RPG")]/../../../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4523 4917
+//*[contains(text(),"QUICK FACTS")]/../../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4529 4917
+//DIV[@class='mod-content']/DIV[3]/UL[3]/LI[3]/text()[1]
+4522 4917
+//DIV[@class='mod-container mod-no-header-footer mod-page-header']/DIV[2]/DIV[3]/UL[3]/LI[3]/text()[1]
+4522 4917
+//*[contains(text(),"Feb 7, 1974 in South Africa (Age: 39)")]/../LI[3]/TEXT()[1]
+4916 4917
+//*[contains(text(),"Shop ")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4871 4917
+//*[contains(text(),"3.0")]/../../../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4884 4917
+//*[@id='content-wrapper']/DIV[2]/DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/text()
+4522 4917
+//*[contains(text(),"8.5")]/../../../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4901 4917
+//*[contains(text(),"Drafted")]/../following-sibling::*[1]/TEXT()[1]
+4355 4917
+//*[contains(text(),"Hollinger")]/../../../../DIV[3]/DIV[2]/DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4522 4917
+//*[contains(text(),"14.4")]/../../../../../DIV[3]/UL[3]/LI[3]/TEXT()[1]
+4911 4917
+//*[contains(text(),"#10 PG")]/../following-sibling::*[1]/LI[3]/TEXT()[1]
+4911 4917
+//*[contains(text(),"17 years")]/../LI[3]/TEXT()[1]
+4911 4917
